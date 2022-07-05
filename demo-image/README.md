@@ -5,4 +5,4 @@ label="Apollo and Daphne"
 description="sculpture by Gian Lorenzo Bernini"
 license="CC BY-SA 4.0">
 
-https://juncture-digital.org/BethKidd/Plant-Narrative-1/demo-image/test/
+https://juncture-digital.org/BethKidd/Plant-Narrative-1/demo-image/

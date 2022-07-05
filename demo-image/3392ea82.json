@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Rubbish Bin",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Finsbury_Park_20171002_150908_%2849370508437%29.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1031.3924560546875,1869.2662353515625,374.278564453125,365.7718505859375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7274ad0e-1021-483e-a32a-e8da3a5a15f7"
+  }
+]

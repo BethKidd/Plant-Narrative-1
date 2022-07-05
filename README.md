@@ -3,8 +3,7 @@
 <param ve-config 
        title="Finsbury Park"
        
-## Map
-
+### Finsbury Park
 Finsbury Park is a public park in the London neighbourhood of Harringay.[1] It is in the area formerly covered by the historic parish of Hornsey, succeeded by the Municipal Borough of Hornsey. It was one of the first of the great London parks laid out in the Victorian era. The park borders the neighbourhoods of Harringay, Finsbury Park, Stroud Green, and Manor House.
        
 <param ve-map

@@ -1,6 +1,6 @@
-<peram ve-config
-   title="Finsbury Park"
-   author="Beth Kidd"
+<param ve-config
+  title="Finsbury Park"
+  author="Beth Kidd"
   banner="https://upload.wikimedia.org/wikipedia/commons/6/6a/Finsbury_Park_-_geograph.org.uk_-_1958772.jpg"
   layout="vertical">
 

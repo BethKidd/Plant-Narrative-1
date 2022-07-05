@@ -12,6 +12,6 @@ Finsbury Park is a public park in the London neighbourhood of Harringay. It is i
        
 <param ve-map
        center="51.56974492631283, -0.10255968491843108"
-       zoom="12"
+       zoom="14"
        Title="Finsbury Park"
        show-labels>

@@ -26,9 +26,11 @@ he exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Mel
 https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/
 
 ### Behaviour
-he exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).    
+The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).    
 <param ve-image
   url="https://www.biodiversitylibrary.org/pageImage/58555014">
-                                      
+
+### Historia Plantarum 
+Historia Plantarum was published in three volumes: vol 1 in 1686, vol 2 in 1688, vol 3 in 1704. The third volume lacked plates, so Ray's assistant, the apothecary James Petiver, published Petiver's Catalogue, effectively a supplement containing the plates, in parts in 1715–1764. The work on the first two volumes was supported by subscriptions from the President and Fellows of the Royal Society.
 <param ve-iframe                                               
 src="https://books.google.com/books?id=W3xDAAAAcAAJ&newbks=0&dq=ray%20historia%20plantum&pg=PA424&output=embed">

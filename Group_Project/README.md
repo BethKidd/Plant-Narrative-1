@@ -20,6 +20,8 @@ he exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Mel
        zoom="8"
        Title="Everglades, Florida"
        show-labels>
+<param ve-map-layer>
+     
 
 https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/
 

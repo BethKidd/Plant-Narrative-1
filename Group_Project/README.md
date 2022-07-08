@@ -13,12 +13,11 @@ description="Bark
 license="CC BY-SA 3.0">
 
 ### Invasive Behaviour
-he exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).
+The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="8"
        Title="Everglades, Florida"
-       show-labels
        prefer-geojson>
 <param ve-map-layer
         url="Group_Project/Everglades.json">

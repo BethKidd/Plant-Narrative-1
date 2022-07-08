@@ -34,7 +34,8 @@ Historia Plantarum was published in three volumes: vol 1 in 1686, vol 2 in 1688,
 <param ve-iframe                                               
 src="https://books.google.com/books?id=W3xDAAAAcAAJ&newbks=0&dq=ray%20historia%20plantum&pg=PA424&output=embed">
 
-###Timeline
+### Timeline                                                                                                          
+Historia Plantarum was published in three volumes: vol 1 in 1686, vol 2 in 1688, vol 3 in 1704. The third volume lacked plates, so Ray's assistant, the apothecary James Petiver, published Petiver's Catalogue, effectively a supplement containing the plates, in parts in 1715–1764. The work on the first two volumes was supported by subscriptions from the President and Fellows of the Royal Society.
 <param ve-knightlab-timeline
 source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
 timenav-position="bottom"

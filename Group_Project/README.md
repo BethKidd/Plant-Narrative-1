@@ -17,10 +17,8 @@ The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Me
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="8"
-       Title="Everglades, Florida"
-       prefer-geojson>
-<param ve-map-layer
-        url="Group_Project/Everglades.json">
+       Title="Everglades, Florida">
+<param ve-map-layer url="/Everglades.json">
      
 https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/
 

@@ -38,7 +38,7 @@ license="CC BY-SA 4.0">
 ### Section 2: Colonial History, Naming, Morphology
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image 
-url="https://commons.wikimedia.org/wiki/File:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
+url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
 label="Paperbark after a Bushfire" 
 description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">

@@ -29,6 +29,11 @@ description="Lange Melaleuca, Struck by Lightning"
 license="Unknown">
 
 What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
+<param ve-image 
+url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
+label="Lange Melaleuca, Struck by Lightning" 
+description="Lange Melaleuca, Struck by Lightning"
+license="Unknown">
 
 
 ### Section 2: Colonial History, Naming, Morphology

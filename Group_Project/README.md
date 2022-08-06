@@ -22,13 +22,13 @@ license="Unknown">
 
 ### 
 The Melaleuca’s fall from grace has been swift and steep—though not universal. It remains a treasured species by indigenous and settler Australians alike, its uses and cultural significance predating these colonial projects by many thousands of years [how many??]. Meanwhile, botanists increasingly concerned for the species’ dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the M. quinquinervia is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’. Laws have emerged since the 1990s in effort to eliminate its presence. Not even the prized Melaleuca of Lange park is exempt from ill will: “This is a living monument that needs to die”, insisted Broward County Environmental executive, Patti Webster. “It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".
-
-What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 <param ve-image 
 url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
 label="Lange Melaleuca, Struck by Lightning" 
 description="Lange Melaleuca, Struck by Lightning"
 license="Unknown">
+
+What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 
 
 ### Section 2: Colonial History, Naming, Morphology

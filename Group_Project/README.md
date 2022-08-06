@@ -30,10 +30,10 @@ license="Unknown">
 
 What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/6/69/Melaleuca_quinquenervia_flowering_7th_Brigade_Park_Chermside_L1100388.jpg"
-label="Paperbark" 
-description="Paperbark"
-license="CC BY-SA 4.0">
+url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Tree_Stump_of_Paper-bark_Tea_Tree_at_Xinzhong_Street%2C_Taipei_20160116.jpg"
+label="Melaleuca Stump" 
+description="Tree Stump of Paper-bark Tea Tree at Xinzhong Street, Taipei"
+license="CC BY-SA 3.0">
 
 ### Section 2: Colonial History, Naming, Morphology
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

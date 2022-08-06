@@ -11,7 +11,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JP
 label="Bark" 
 description="Bark"
 license="CC BY-SA 3.0">
-                      
+
+### 
 A similar colonial propensity for afforestation haunts further histories of Paperbark’s spread.  The accounts of early twentieth century developers in South Florida share in the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.  For decades, M. quinquenervia was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A memorial plaque in Lange Park, less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
 <param ve-image 
 url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"

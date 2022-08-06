@@ -4,7 +4,7 @@
   banner="https://upload.wikimedia.org/wikipedia/commons/0/02/Paperbark_Trees_in_Coombabah.png"
   layout="vertical">
   
-### Introduction
+### Section 1: Introduction
 Throughout the late nineteenth and twentieth centuries, the expansion of colonial rule in Hong Kong could be tracked along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general.  The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst ‘primitive.’  The self-identified task of the new government was to plant trees for multipronged effect, to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the indigenous landscape and move it steadily toward an ideal imported from the forested English countryside. Newly formed Agriculture and Forestry Departments approached this assignment voraciously, planting over a million trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and Papua New Guinea.  One such tree was the broad-leaf Paperbark species Melaleuca quinquenervia which can still be found lining streets in urban zones and filling wetland ecosystems.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
@@ -29,8 +29,27 @@ license="Unknown">
 
 What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 
-### Invasive Behaviour
-The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).
+### Section 2: Colonial History, Naming, Morphology
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-image 
+url="https://commons.wikimedia.org/wiki/File:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
+label="Scorched Paperbark" 
+description="Scorched Paperbark"
+license="CC BY-SA 2.0">
+
+###
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-iframe                                               
+src="https://books.google.com/books?id=W3xDAAAAcAAJ&newbks=0&dq=ray%20historia%20plantum&pg=PA424&output=embed">
+
+### Section 3: Paperbark in Australian/Oceanian Bushcraft and Indigenous Tradition
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Section 4: Significance to modern-day Australians (including Aboriginals)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Section 5: Ecology, Land Management, Climate Change
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="8"
@@ -39,18 +58,11 @@ The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Me
      
 https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/
 
-### Behaviour
-The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994).    
-<param ve-image
-  url="https://www.biodiversitylibrary.org/pageImage/58555014">
+### Section 6: Conclusion 
+The exotic tree Melaleuca quinquenervia (Cav.) Blake (commonly referred to as Melaleuca or paperbark tree) aggressively invades many south Florida ecosystems (Fig. 1), including the Everglades (Hofstetter, 1991; Bodle et al., 1994). It was introduced during the early 1900s or late 1800s (Gifford, 1937; Meskimen, 1962; Dray, pers. comm.). Melaleuca quinquenervia displaces native vegetation, degrades wildlife habitat, creates fire hazards, and causes human health problems (Morton, 1962; Diamond et al., 1991). Florida state laws enacted in 1990 and 1993 prohibit the sale, cultivation, and transportation of M. quinquenervia. It was placed on the United States Department of Agriculture’s Federal Noxious Weed List in 1992 (Bodle et al., 1994; Laroche, 1994). 
 
-### Historia Plantarum 
-Historia Plantarum was published in three volumes: vol 1 in 1686, vol 2 in 1688, vol 3 in 1704. The third volume lacked plates, so Ray's assistant, the apothecary James Petiver, published Petiver's Catalogue, effectively a supplement containing the plates, in parts in 1715–1764. The work on the first two volumes was supported by subscriptions from the President and Fellows of the Royal Society.
-<param ve-iframe                                               
-src="https://books.google.com/books?id=W3xDAAAAcAAJ&newbks=0&dq=ray%20historia%20plantum&pg=PA424&output=embed">
-
-### Timeline                                                                                                          
-Historia Plantarum was published in three volumes: vol 1 in 1686, vol 2 in 1688, vol 3 in 1704. The third volume lacked plates, so Ray's assistant, the apothecary James Petiver, published Petiver's Catalogue, effectively a supplement containing the plates, in parts in 1715–1764. The work on the first two volumes was supported by subscriptions from the President and Fellows of the Royal Society.
+###                                                                                                           
+Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline Timeline 
 <param ve-knightlab-timeline
 source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
 timenav-position="bottom"

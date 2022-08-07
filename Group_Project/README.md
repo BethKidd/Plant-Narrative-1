@@ -27,7 +27,8 @@ The Melaleuca’s fall from grace has been swift and steep—though not universa
 url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
 label="Lange Plaque" 
 description="Memorial Plaque, Lange Park"
-license="Unknown">
+license="Unknown"
+fit="contain">
 
 What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 <param ve-image 

@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  <param ve-map-layer geojson url="OriginalRange.json">
 
 ### Section 3: Paperbark in Australian/Oceanian Bushcraft and Indigenous Tradition
-Attitudes toward the paperbark tree contrast sharply between American and the ones found among those living in the natural habitat of *Melaleuca*. For many of the Aboriginal tribes of Australia and the Indigenous peoples of New Caledonia and Papua New Guinea, the paperbark tree holds an important role in their cultures. 
+Attitudes toward the paperbark tree contrast sharply between American perspectives and the ones found among those living in the natural habitat of *Melaleuca*. For many of the Aboriginal tribes of Australia and the Indigenous peoples of New Caledonia and Papua New Guinea, the paperbark tree holds an important role in their cultures. 
 
 <param ve-video id="1n-zJNdfQJI" 
 title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
@@ -72,7 +72,7 @@ The tree has many uses that intersect with daily life including as a source of f
 <param ve-d3plus-network url="https://raw.githubusercontent.com/BethKidd/Plant-Narrative-1/Group_Project/Paperbarknetwork.tsv">
 
 ### 
-For generations Indigenous populations of Oceania have used Melaleuca bark in the construction of dwellings. In the past dwelling building was often completed entirely by women who cut the bark, built the dwelling, and when traveling often carried the components on their backs. Paperbark sheeting was sometimes transported as it was not available in all environments. Ethnohistoric accounts indicate Aboriginals used Melaleuca bark as bedding and lining. These structures could range from relatively simple openair huts to more substantial structures aimed to avoid the rain of the wet season. Ethnohistoric accounts describe Aboriginal Australians painting the interior of their structures with ochre. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the use of paperbark in dwelling building. The story tells of a man and woman out foraging who when caught by surprise by the fast-approaching rainy season constructed one of the first bark shelters. Using Melaleuca bark, the couple lined their house and were able to stay dry. 
+For generations Indigenous populations of Oceania have used  paperbark in the construction of dwellings. In the past dwelling building was often completed entirely by women who cut the bark, built the dwelling, and when traveling often carried the components on their backs. Paperbark sheeting was sometimes transported as it was not available in all environments. Ethnohistoric accounts indicate Aboriginals used Melaleuca bark as bedding and lining. These structures could range from relatively simple openair huts to more substantial structures aimed to avoid the rain of the wet season. Ethnohistoric accounts describe Aboriginal Australians painting the interior of their structures with ochre. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the use of paperbark in dwelling building. The story tells of a man and woman out foraging who when caught by surprise by the fast-approaching rainy season constructed one of the first bark shelters. Using Melaleuca bark, the couple lined their house and were able to stay dry. 
 
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"

@@ -1,5 +1,5 @@
 source	source.label	source.image	target	target.label	target.image	edge
-	Pollen source/honey		Q1778821	Cusine		
+Q10987	Pollen source/honey		Q1778821	Cusine		
 	Sweetner		Q1778821	Cusine		
 	Fuelwood		Q42501	Fuel		
 	Ornamental plant			General		
@@ -41,4 +41,5 @@ source	source.label	source.image	target	target.label	target.image	edge
 	Posts		Q385378	Construction		
 	Timber		Q385378	Construction		
 	Woodcarvings		Q2207288	Crafts		
-	Vessel		Q2207288	Crafts		
+	Vessel		Q2207288	Crafts	
+Q1813408	Melaleuca quinquenervia	

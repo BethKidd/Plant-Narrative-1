@@ -1,0 +1,43 @@
+source	source.label	source.image	target	target.label	target.image	edge
+Q10987	Pollen source/honey		Q1778821	Cusine		
+	Sweetner		Q1778821	Cusine		
+Q35808	Fuelwood		Q42501	Fuel		
+Q199182	Ornamental plant			General		
+Q1778821	Cusine		Q1813408	Melaleuca quinquenervia		
+Q473594	Earthoven lining		Q1778821	Cusine		
+	Food wrapping		Q1778821	Cusine		
+Q12147	Health		Q1813408	Melaleuca quinquenervia		
+Q12140	Medicine		Q12147	Health		
+Q1340459	Insect and vermin repellant		Q12147	Health		
+Q6097	Leaf tea		Q12140	Medicine		
+Q170885	Oil		Q12140	Medicine		
+Q376724	Bandage		Q12147	Health		
+Q22676	Shoes		Q12147	Health		
+Q1762457	Bedding		Q12147	Health		
+Q34581	Childbirth and Care		Q1813408	Melaleuca quinquenervia		
+	Baby wrapping		Q34581	Childbirth and Care		
+	Birth pit lining		Q34581	Childbirth and Care		
+	General		Q1813408	Melaleuca quinquenervia		
+Q42501	Fuel		Q1813408	Melaleuca quinquenervia		
+Q66157003	Packing material		Q7590	Transportation		
+	Invertebrate fodder		Q2249676	Environment		
+Q2249676	Environmental		Q1813408	Melaleuca quinquenervia		
+Q5395394	Erosion control		Q2249676	Environment		
+	Dune stabilization		Q2249676	Environment		
+Q160020	Shade		Q12147	Health		
+Q7493941	Shelter		Q12147	Health		
+Q889669	Soil conservation		Q2249676	Environment		
+Q113089528	Soil improvement		Q2249676	Environment		
+Q2039061	Windbreak		Q2249676	Environment		
+Q549563	Mulch			General		
+Q2207288	Crafts		Q1813408	Melaleuca quinquenervia		
+Q7590	Transportation		Q1813408	Melaleuca quinquenervia		
+Q385378	Construction		Q1813408	Melaleuca quinquenervia		
+Q35872	Boats 		Q7590	Transportation		
+Q177463	Charcoal source		Q42501	Fuel		
+Q14745	Furniture		Q2207288	Crafts		
+Q2180428	Posts		Q385378	Construction		
+Q1370714	Timber		Q385378	Construction		
+Q337907	Woodcarvings		Q2207288	Crafts		
+Q987767	Vessel		Q2207288	Crafts		
+Q1813408	Melaleuca quinquenervia					

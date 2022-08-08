@@ -47,7 +47,7 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <span data- mouseover-image-zoomto=“824,800,1152,938”>commodo consequat.</span> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <span data- mouseover-image-zoomto=“824,800,1152,938”> commodo consequat. </span> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/8/81/Melaleuca_quinquenervia_flowers_7th_Brigade_Park_Chermside_P1210751.jpg"
 label="Paperbark in Flower" 
@@ -71,7 +71,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Section 3: Paperbark in Australian/Oceanian Bushcraft and Indigenous Tradition
 Attitudes toward the paperbark tree contrast sharply between American perspectives and the ones found among those living in the natural habitat of *Melaleuca*. For many of the Aboriginal tribes of Australia and the Indigenous peoples of New Caledonia and Papua New Guinea, the paperbark tree holds an important role in their cultures. 
-
 <param ve-video id="1n-zJNdfQJI" 
 title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
 

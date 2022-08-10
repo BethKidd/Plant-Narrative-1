@@ -138,7 +138,7 @@ license="CC BY-SA 4.0">
 ###
 Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988?raw=true"
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
 label="needed still" 
 description="needed still"
 license="needed still">

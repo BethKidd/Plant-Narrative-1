@@ -88,31 +88,60 @@ The tree has many uses that intersect with daily life, as a source of food, medi
 ### 
 M. quinquenervia has multiple medicinal applications. A tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil has been used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties. Ironically in the U.S., M. quinquenervia has been labeled an allergen and respiratory irritant. Florida used this “fact” in the rationale for the 1990 ban on the sale, transportation, collection, cultivation, or possession of Melaleuca. Since the 1990s, studies have found M. quinquenervia is actually not a significant source of aeroallergen or a respiratory irritant. Like other Melaleuca species, M. quinquenervia produces a tea tree oil. This essential oil is used by many as an antibacterial, fungicide, and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available tea tree oil from M. alternifolia, not M. quinquenervia. Commonly known as Niaouli, some sellers market the oil from the M. quinquenervia as having more robust properties than the more common tea tree oil.  
 <param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
-label="Couple seated in front of paperbark hut, Beenleigh, Queensland, ca. 1895, John Oxley Library, State Library of Queensland, Image no. 021312" 
-description="_Paperbark structure_ Beenleigh, Queensland, Australia [ca. 1895]"
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
+label="title needed" 
+description="description needed"
 license="Unknown">
 
 ###
 For generations, the indigenous populations of Oceania have used Melaleuca bark to construct dwellings. Among some groups, dwelling building was completed entirely by women who cut the bark, built the structure, and even carried the components on their backs when traveling. Paperbark sheeting was stored when not used and sometimes transported as it is unavailable in some environments. Not only was paperbark significant for building a structure, but it had a further use as a bedding and lining material. These bark structures could range from open-air huts to more substantial structures intended to avoid the wet season's rains. The bark also provides insulation and a comfortable source of bedding. Ethnohistoric accounts describe Aboriginal Australians painting the interior of their dwellings with ochre. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings. The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first bark shelters. Using Melaleuca bark, the couple lined their house and stayed dry until the rainy season passed. 
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"
+label="title needed" 
+description="description needed"
+license="Unknown">
 
 ###
-Aside from the bark, Melaleuca lumber is considered a suitable building material. The wood is hard and fine textured, naturally resistant to termite attacks, but tends to warp and is challenging to cut and season. In Florida, Melaleuca has been incorporated into fine-quality mulch. Craftspeople have used both the lumber and bark to fabricate boats and rafts. Additionally, Indigenous artisans use paperbark for to craft other vessels, such as liquid-holding containers and baskets. 
+Aside from the bark, Melaleuca lumber is considered a suitable building material. The wood is hard and fine textured, naturally resistant to termite attacks, but tends to warp and is challenging to cut and season. In Florida, Melaleuca has been incorporated into fine-quality mulch. Craftspeople have used both the lumber and bark to fabricate boats and rafts. Additionally, Indigenous artisans use paperbark for to craft other vessels, such as liquid-holding containers and baskets.
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips%2C_1914_-_Frank_Hurley_%2822098482178%29.jpg"
+label="Bush Shower of Paperbark strips and timber, 1914" 
+description="addlater"
+license="">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
+label="Melaleuca Mulch" 
+description="Melaleuca Mulch"
+license="CC BY-NC 2.0">
 
 ###
 Ethnographic accounts describe Aboriginal Australians using Melaleuca bark for lining earth ovens, wrapping food for cooking and storage, and fuelwood or kindling. More recently, Euro-Australians have also championed the culinary utility of the paperbark tree and Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note food cooked while wrapped in paperbark takes on a smoky flavor and recommend the method for roasting fish, chicken, or vegetables. More than just the bark from Melaleuca has culinary applications. For example, seeping Melaleuca tree blossoms creates a natural sweetener, which has been used for candies. M. quinquenervia is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida, USA. The honey is described as having a rich caramel flavor and aroma.
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
+label="Paperbark for food wrapping" 
+description="addlater"
+license="CC BY-SA 3.0">
 
 ###
-Paperbark provided women with a genuinely utilitarian material. Melaleuca's oils repel insects and vermin, an ideal property for domestic concerns. Not only was Melaleuca ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants. In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark. Paperbark was also used to line the coolamon vessels for carrying babies. 
-
-###
-Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
+Paperbark provided women with a genuinely utilitarian material. Melaleuca's oils repel insects and vermin, an ideal property for domestic concerns. Not only was Melaleuca ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants. In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark. Paperbark was also used to line the coolamon vessels for carrying babies. Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg"
+label="Aboriginal Coolamons" 
+description="addlater"
+license="CC BY-SA 4.0">
 
 ###
 Aboriginal Australians so value paperbark that some have incorporated the tree into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), a Aboriginal Australian activist, educator, and artist. Noonuccal devoted her life to articulating the feelings of Aboriginal people and combating social inequality. Her writing explores themes of cultural identity, spirituality, place and time, simultaneously weaving in a rich description of Australia’s natural environment. Noonuccal advocated not only for Aboriginal Australians but for the environment. Her work draws attention to ecological symbiosis and the importance of the natural environment to Indigenous peoples and traditions.
+<param ve-video id="ZPQr30eEQdY" 
+title="Oodgeroo Noonuccal Reading Her Poems">
 
 ###
 Formerly known as Kath Walker, in 1988, she adopted the name which translates to “paperbark tree of the Noonuccal,” crediting the group name of her ancestors. In the poem “Oodgeroo” which dates to the time of her name change, Noonuccal tells the story of a woman severed from her culture and people who, with the help of Biami the Good Spirit and the paperbark trees, spent many years recording lost tribal stories. The poem concludes with the woman’s adoption into a tribe of paperbark trees, with her old foe Time losing his power over her and the woman finding peace. In this poem, the utility of Melaleuca and Noonuccal’s feeling of kinship with the trees is evident.
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/ONphoto.jpg?raw=true"
+label="Melaleuca Mulch" 
+description="Melaleuca Mulch"
+license="CC BY-NC 2.0">
 
 ### 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

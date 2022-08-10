@@ -128,12 +128,20 @@ description="addlater"
 license="CC BY-SA 3.0">
 
 ###
-Paperbark provided women with a genuinely utilitarian material. Melaleuca's oils repel insects and vermin, an ideal property for domestic concerns. Not only was Melaleuca ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants. In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark. Paperbark was also used to line the coolamon vessels for carrying babies. Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
+Paperbark provided women with a genuinely utilitarian material. Melaleuca's oils repel insects and vermin, an ideal property for domestic concerns. Not only was Melaleuca ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants. In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark. Paperbark was also used to line the coolamon vessels for carrying babies. 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg"
 label="Aboriginal Coolamons" 
 description="addlater"
 license="CC BY-SA 4.0">
+
+###
+Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988?raw=true"
+label="needed still" 
+description="needed still"
+license="needed still">
 
 ###
 Aboriginal Australians so value paperbark that some have incorporated the tree into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), a Aboriginal Australian activist, educator, and artist. Noonuccal devoted her life to articulating the feelings of Aboriginal people and combating social inequality. Her writing explores themes of cultural identity, spirituality, place and time, simultaneously weaving in a rich description of Australia’s natural environment. Noonuccal advocated not only for Aboriginal Australians but for the environment. Her work draws attention to ecological symbiosis and the importance of the natural environment to Indigenous peoples and traditions.

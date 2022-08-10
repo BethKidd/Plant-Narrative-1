@@ -89,17 +89,17 @@ The tree has many uses that intersect with daily life, as a source of food, medi
 M. quinquenervia has multiple medicinal applications. A tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil has been used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties. Ironically in the U.S., M. quinquenervia has been labeled an allergen and respiratory irritant. Florida used this “fact” in the rationale for the 1990 ban on the sale, transportation, collection, cultivation, or possession of Melaleuca. Since the 1990s, studies have found M. quinquenervia is actually not a significant source of aeroallergen or a respiratory irritant. Like other Melaleuca species, M. quinquenervia produces a tea tree oil. This essential oil is used by many as an antibacterial, fungicide, and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available tea tree oil from M. alternifolia, not M. quinquenervia. Commonly known as Niaouli, some sellers market the oil from the M. quinquenervia as having more robust properties than the more common tea tree oil.  
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
-label="title needed" 
+label="Tea Tree Oil" 
 description="description needed"
-license="Unknown">
+license="Unsplash photos are made to be used freely">
 
 ###
 For generations, the indigenous populations of Oceania have used Melaleuca bark to construct dwellings. Among some groups, dwelling building was completed entirely by women who cut the bark, built the structure, and even carried the components on their backs when traveling. Paperbark sheeting was stored when not used and sometimes transported as it is unavailable in some environments. Not only was paperbark significant for building a structure, but it had a further use as a bedding and lining material. These bark structures could range from open-air huts to more substantial structures intended to avoid the wet season's rains. The bark also provides insulation and a comfortable source of bedding. Ethnohistoric accounts describe Aboriginal Australians painting the interior of their dwellings with ochre. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings. The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first bark shelters. Using Melaleuca bark, the couple lined their house and stayed dry until the rainy season passed. 
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"
-label="title needed" 
+label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
 description="description needed"
-license="Unknown">
+license="CC BY 4.0">
 
 ###
 Aside from the bark, Melaleuca lumber is considered a suitable building material. The wood is hard and fine textured, naturally resistant to termite attacks, but tends to warp and is challenging to cut and season. In Florida, Melaleuca has been incorporated into fine-quality mulch. Craftspeople have used both the lumber and bark to fabricate boats and rafts. Additionally, Indigenous artisans use paperbark for to craft other vessels, such as liquid-holding containers and baskets.
@@ -110,11 +110,11 @@ description="addlater"
 license="">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
-label="Melaleuca Mulch" 
+label="Florimulch Mulch Made with Melaleuca" 
 description="Melaleuca Mulch"
 license="CC BY-NC 2.0">
 <param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
 label="Melaleuca Mulch" 
 description="Two Aboriginal People, 1940"
 license="">

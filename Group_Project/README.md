@@ -113,6 +113,11 @@ url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch
 label="Melaleuca Mulch" 
 description="Melaleuca Mulch"
 license="CC BY-NC 2.0">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
+label="Melaleuca Mulch" 
+description="Two Aboriginal People, 1940"
+license="">
 
 ###
 Ethnographic accounts describe Aboriginal Australians using Melaleuca bark for lining earth ovens, wrapping food for cooking and storage, and fuelwood or kindling. More recently, Euro-Australians have also championed the culinary utility of the paperbark tree and Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note food cooked while wrapped in paperbark takes on a smoky flavor and recommend the method for roasting fish, chicken, or vegetables. More than just the bark from Melaleuca has culinary applications. For example, seeping Melaleuca tree blossoms creates a natural sweetener, which has been used for candies. M. quinquenervia is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida, USA. The honey is described as having a rich caramel flavor and aroma.

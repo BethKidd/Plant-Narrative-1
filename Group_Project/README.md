@@ -95,7 +95,7 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to Botany Bay on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
+Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to Botany Bay on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, collected locally by Banks and Solander in 1770, is preserved in the Queensland herbarium. 
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">
 <param ve-entity eid="Q7324" aliases="Captain Cook’s">

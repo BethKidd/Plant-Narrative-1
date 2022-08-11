@@ -107,7 +107,11 @@ label="Banks and Solander Herbarium Specimen"
 fit="contain">
 
 ### Indigenous Treasure 
-Attitudes toward the paperbark tree contrast sharply between American perspectives and the attitudes found among those living in the natural habitat of Melaleuca. For many of the Aboriginal tribes of Australia and the indigenous peoples of New Caledonia and Papua New Guinea, the paperbark tree holds a pivotal role in their cultures. In this corner of the world, people have used paperbark for everything from kindling to art.
+The paperbark’s centrality to indigenous communities predates these eighteenth-century ‘discoveries’ by many thousands of years. It goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku peoples, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of indigenous peoples, including those of New Caledonia and Papua New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it holds a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.
+<param ve-entity eid="Q22918391">
+<param ve-entity eid="Q1996477">
+<param ve-entity eid="Q3913796">
+<param ve-entity eid="Q1406574">
 <param ve-video id="1n-zJNdfQJI" 
 title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
 

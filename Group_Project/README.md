@@ -57,8 +57,7 @@ license="CC BY-SA 4.0">
 url="https://upload.wikimedia.org/wikipedia/commons/9/99/Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
 label="Bark structure" 
 description="photo by Doug Beckers"
-license="CC BY-SA 2.0"
-fit="contain">
+license="CC BY-SA 2.0">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/5/57/Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg"
 label="Paperbark Fruit" 

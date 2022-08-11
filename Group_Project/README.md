@@ -77,7 +77,8 @@ fit="contain">
 In the *Herbarium Amboinense*, a work from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as ‘Caju-puti’, to which he gives the Latin ‘Arbor alba’ (white tree) and Dutch ‘Witte Boom’. He also gives an additional synonym, ‘brant-boomen’ or ‘fire tree’, noting the apparent mystery that, though ‘no beast ever saw this tree burn, who paid the least attention’, and though often found in proximity to apparently untarnished trees, ‘the bottom of this trunk is always most black, as if it had been burnt’, suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame. 
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
-src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
+src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
+fit="contain">
 
 ###
 Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mélas (black) and leukós (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 

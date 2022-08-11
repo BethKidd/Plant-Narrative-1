@@ -105,16 +105,6 @@ url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paper
 label="Banks and Solander Herbarium Specimen"
 fit="contain">
 
-###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-map
- center="-23.446764, 136.196881"
- zoom="4"
- Title="Original Range of M. quinquenervia"
- show-labels
- basemap="Esri_WorldPhysical">
- <param ve-map-layer geojson url="OriginalRange.json">
-
 ### Section 3: Paperbark in Australian/Oceanian Bushcraft and Indigenous Tradition
 Attitudes toward the paperbark tree contrast sharply between American perspectives and the attitudes found among those living in the natural habitat of Melaleuca. For many of the Aboriginal tribes of Australia and the indigenous peoples of New Caledonia and Papua New Guinea, the paperbark tree holds a pivotal role in their cultures. In this corner of the world, people have used paperbark for everything from kindling to art.
 <param ve-video id="1n-zJNdfQJI" 

@@ -75,7 +75,7 @@ In the *Herbarium Amboinense*, a work from which Linnaeus was able to classify d
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 
 ###
-Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
+Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mélas (black) and leukós (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
 <param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
@@ -84,11 +84,12 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to Botany Bay on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
+Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to Botany Bay on Captain James Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">
 <param ve-entity eid="Q7324" title="Captain Cook">
 <param ve-entity eid="Q894682">
+<param ve-entity eid="Q312224">
 <param ve-image
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"

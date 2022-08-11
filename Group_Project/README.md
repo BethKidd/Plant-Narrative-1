@@ -38,16 +38,7 @@ description="Tree Stump of Paper-bark Tea Tree at Xinzhong Street, Taipei"
 license="CC BY-SA 3.0">
 
 ### Section 2: Colonial History, Naming, Morphology
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
-label="Paperbark after a Bushfire" 
-description="Paperbark after a Bushfire"
-license="CC BY-SA 2.0">
-
-###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea <span data-mouseover-image-zoomto=“861,612,1720,1625”>commodo consequat</span> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Melaleuca quinquenervia belongs to a genus of the Myrtle or Myrtaceae family, closely related to that of the Eucalyptus, and largely endemic to mainland Australia—its southern limit at Botany Bay—with some species of Melaleuca also found in New Caledonia and Indonesia. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its <span data-mouseover-image-zoomto=“861,612,1720,1625”>flowers</span>, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong, with, as its epithet specifies, five veins (quinquenervia). 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/8/81/Melaleuca_quinquenervia_flowers_7th_Brigade_Park_Chermside_P1210751.jpg"
 label="Paperbark in Flower" 
@@ -55,7 +46,18 @@ description="Paperbark"
 license="CC BY-SA 2.0">
 
 ###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens belonging to the German-born botanist Rumphius, famed as ‘the Pliny of the Indies’, which he collected from the Indonesian Maluku Islands during employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, Herbarium Amboinense (1741), was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
+
+###
+In the Herbarium Amboinense, from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as ‘Caju-puti’, to which he gives the Latin ‘Arbor alba’ (white tree) and Dutch ‘Witte Boom’. He also gives an additional synonym, ‘brant-boomen’ or ‘fire tree’, noting the apparent mystery that, though ‘no beast ever saw this tree burn, who paid the least attention’, and though often found in proximity to apparently untarnished trees, ‘the bottom of this trunk is always most black, as if it had been burnt’, suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame. This temporary visage following a bushfire, white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It is a familiar characteristic to this day. In a recent work of Australian novelist Peter Carey, the ‘pale blue eyes' of a character disfigured by burns are said to 'peer out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.’
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
+label="Paperbark after a Bushfire" 
+description="Paperbark after a Bushfire"
+license="CC BY-SA 2.0">
+
+###
+Further species of Melaleuca, including the quinquenervia of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to so-called ‘Botany Bay’ on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, collected locally by Banks and Solander in 1770, is preserved in the Queensland herbarium. 
 <param ve-image
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"

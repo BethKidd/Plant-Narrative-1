@@ -28,7 +28,7 @@ It is a similar tale of colonial [afforestation](https://en.wikipedia.org/wiki/A
  <param ve-map-layer geojson url="OriginalRange.json">
 
 ### 
-The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from 'Champion Tree' to incorrigible pest. “This is a living monument that needs to die”, insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor. “It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree". These later comments follow a series of laws passed in the 1990s designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his *Demons in Eden* (2005), the *M. quinquenervia* is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’ at a current rate of [insert]. It is a villainous identity difficult to square with the paperbark’s long history as a treasure of aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances? 
+The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from 'Champion Tree' to incorrigible pest. 'This is a living monument that needs to die', insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor. 'It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree'. These later comments follow a series of laws passed in the 1990s designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his *Demons in Eden* (2005), the *M. quinquenervia* is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’ at a current rate of [insert]. It is a villainous identity difficult to square with the paperbark’s long history as a treasure of aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances? 
 <param ve-entity eid="Q494624">
 <param ve-entity eid="Q8276086">
 <param ve-image 
@@ -84,10 +84,11 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to so-called ‘Botany Bay’ on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
+Further species of Melaleuca, including the *M. quinquenervia* of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to Botany Bay on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">
 <param ve-entity eid="Q7324" title="Captain Cook">
+<param ve-entity eid="Q894682">
 <param ve-image
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"

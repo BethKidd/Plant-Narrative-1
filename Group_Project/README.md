@@ -13,7 +13,7 @@ description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
 license="Unknown">
 
 ### 
-It is a similar tale of colonial [afforestation](https://en.wikipedia.org/wiki/Afforestation) that accounts for the broad-leaf paperbark’s status today as one of America’s most pernicious weeds. Early twentieth-century developers in South Florida repeat the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots. For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
+It is a similar tale of colonial [afforestation](https://en.wikipedia.org/wiki/Afforestation) that accounts for the broad-leaf paperbark’s status today as one of America’s most pernicious weeds. Early twentieth-century developers in South Florida repeat the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots. For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering over 25 meters prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
 <param ve-entity eid="Q41806542">
 <param ve-map
  center="-23.446764, 136.196881"
@@ -38,8 +38,9 @@ license="Unknown"
 fit="contain">
 
 ### Section 2: Colonial History, Naming, Morphology
-The Melaleuca quinquenervia belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia and Indonesia, with a southern geographical limit of Botany Bay. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. 
+The Melaleuca quinquenervia belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. 
 <param ve-entity eid="Q45669">
+<param ve-entity eid="Q165152">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/4/45/Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
 label="Paperbark in Flower" 
@@ -48,6 +49,9 @@ license="CC BY-SA 4.0">
 
 ###
 The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Rumphius, famed as ‘the Pliny of the Indies’, found in the Indonesian Maluku Islands during his employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, Herbarium Amboinense (1741), shown to the right, was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
+<param ve-entity eid="Q1043">
+<param ve-entity eid="Q61439">
+<param ve-entity eid="Q3827">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Georg_Eberhard_Rumpf.jpg"
 label="Georg Eberhard Rumpf, alias 'Rumphius'" 
@@ -61,7 +65,8 @@ In the Herbarium Amboinense, from which Linnaeus was able to classify dozens of 
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 
 ###
-Ruphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It remains a strong association for those familiar with the tree. In a recent work of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
+Ruphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
+<param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
 label="Paperbark after a Bushfire" 
@@ -70,6 +75,9 @@ license="CC BY-SA 2.0">
 
 ###
 Further species of Melaleuca, including the quinquenervia of our focus here, became known to European botanical scholarship through the accounts and collections of Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to so-called ‘Botany Bay’ on Captain Cook’s HMS Endeavour between 1768 and 1771. The expedition returned to England with over 3,600 botanical specimens. Despite a significant financial investment from Banks of £7,000, the 2022 equivalent of $1,490,000, and 13 years of labor, the engravings were never published. A specimen of what is now understood to be the species quinquenervia, <span data-mouseover-image-zoomto=“0,1,2712,2622”>collected locally by Banks and Solander in 1770</span>, is preserved in the Queensland herbarium. 
+<param ve-entity eid="Q153408">
+<param ve-entity eid="Q39789">
+<param ve-entity eid="Q7324" title="Captain Cook">
 <param ve-image
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"

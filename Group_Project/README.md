@@ -21,6 +21,16 @@ description="Lange Melaleuca, Struck by Lightning"
 license="Unknown"
 fit="contain">
 
+###
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-map
+ center="-23.446764, 136.196881"
+ zoom="4"
+ Title="Original Range of M. quinquenervia"
+ show-labels
+ basemap="Esri_WorldPhysical">
+ <param ve-map-layer geojson url="OriginalRange.json">
+
 ### 
 The Melaleuca’s fall from grace has been swift and steep—though not universal. It remains a treasured species by indigenous and settler Australians alike, its uses and cultural significance predating these colonial projects by many thousands of years. Meanwhile, botanists increasingly concerned for the species’ dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquinervia* is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’. Laws have emerged since the 1990s in effort to eliminate its presence. Not even the prized Melaleuca of Lange park is exempt from ill will: “This is a living monument that needs to die”, insisted Broward County Environmental executive, Patti Webster. “It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".
 <param ve-image 
@@ -46,7 +56,7 @@ description="Paperbark"
 license="CC BY-SA 2.0">
 
 ###
-The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens belonging to the German-born botanist Rumphius, famed as ‘the Pliny of the Indies’, which he collected from the Indonesian Maluku Islands during employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, Herbarium Amboinense (1741), was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
+The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens belonging to the German-born botanist Rumphius, famed as ‘the Pliny of the Indies’, which he collected from the Indonesian Maluku Islands during employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, Herbarium Amboinense (1741), shown to the right, was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
 <param ve-iframe                                               
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 
@@ -64,11 +74,6 @@ Further species of Melaleuca, including the quinquenervia of our focus here, bec
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"
 fit="contain">
-
-###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-iframe                                               
-src="https://books.google.com/books?id=4OjyPsLF0P4C&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 
 ###
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

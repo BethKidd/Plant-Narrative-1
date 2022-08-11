@@ -71,7 +71,6 @@ The Melaleuca genus was created in 1750 by Carl Linnaeus based on observations o
 <param ve-entity eid="Q3827">
 <param ve-entity eid="Q159766">
 <param ve-entity eid="Q82778">
-<param ve-entity eid="Q545430">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/2/2f/G.E._Rumphius%2C_D%27Amboinsche%2C_frontispiece._Wellcome_L0022386.jpg"
 label="Georg Eberhard Rumpf, alias 'Rumphius'" 
@@ -97,6 +96,7 @@ license="CC BY-SA 2.0">
 
 ###
 The *quinquenervia* species of Melaleuca received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles. But it also numbered among the plants earlier observed and collected by Joseph Banks and Daniel Solander, a student of Linnaeus, who traveled to so-called ‘Botany Bay’ on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia*, collected in Bustard Bay and formerly identified as ‘M. leucadendra’ prior to its reclassification in 1958, is preserved in the Queensland herbarium. The species is also included among the engravings of Banks’ Florilegium, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990. 
+<param ve-entity eid="Q545430">
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">
 <param ve-entity eid="Q7324" aliases="Captain Cook’s">

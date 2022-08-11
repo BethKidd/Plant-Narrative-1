@@ -86,7 +86,7 @@ src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20ambo
 fit="contain">
 
 ###
-Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek 'mélas' (black) and 'leukós' (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
+Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek 'mélas' (black) and 'leukós' (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) by Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
 <param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"

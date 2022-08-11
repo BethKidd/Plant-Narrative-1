@@ -13,11 +13,7 @@ description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
 license="Unknown">
 
 ### 
-A similar colonial propensity for [afforestation](https://en.wikipedia.org/wiki/Afforestation) haunts further histories of Paperbark’s spread.  The accounts of early twentieth century developers in South Florida share in the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.  For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. 
-
-###
-So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. 
-A memorial plaque in Lange Park, less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
+A similar colonial propensity for [afforestation](https://en.wikipedia.org/wiki/Afforestation) haunts further histories of Paperbark’s spread.  The accounts of early twentieth century developers in South Florida share in the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.  For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A memorial plaque in Lange Park, less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
 <param ve-image 
 url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
 label="Lange Plaque" 
@@ -41,8 +37,7 @@ The Melaleuca’s fall from grace has been swift and steep—though not universa
 url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
 label="Lange Melaleuca, Struck by Lightning" 
 description="Lange Melaleuca, Struck by Lightning"
-license="Unknown"
-fit="contain">
+license="Unknown">
 
 What follows is an attempt to account for how the paperbark, from its ancient use to modern scourge, came to trace such a capricious path in its human alliances. What qualities have secured its favor? What conditions have aggravated its ‘faults’?
 <param ve-image 
@@ -65,7 +60,8 @@ The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based
 url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Georg_Eberhard_Rumpf.jpg"
 label="Georg Eberhard Rumpf, alias 'Rumphius'" 
 description="Frontispiece Portrait of Rumphius"
-license="Public Domain">  
+license="Public Domain"
+fit="contain">
 
 ###
 In the Herbarium Amboinense, from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as ‘Caju-puti’, to which he gives the Latin ‘Arbor alba’ (white tree) and Dutch ‘Witte Boom’. He also gives an additional synonym, ‘brant-boomen’ or ‘fire tree’, noting the apparent mystery that, though ‘no beast ever saw this tree burn, who paid the least attention’, and though often found in proximity to apparently untarnished trees, ‘the bottom of this trunk is always most black, as if it had been burnt’, suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame. 

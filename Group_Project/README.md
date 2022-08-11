@@ -46,10 +46,10 @@ license="CC BY-SA 3.0">
 ### Section 2: Colonial History, Naming, Morphology
 The Melaleuca quinquenervia belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia and Indonesia, with a southern geographical limit of Botany Bay.. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong, with, as its epithet specifies, five veins (quinquenervia). 
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/8/81/Melaleuca_quinquenervia_flowers_7th_Brigade_Park_Chermside_P1210751.jpg"
+url="hhttps://upload.wikimedia.org/wikipedia/commons/e/e4/Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020179.jpg"
 label="Paperbark in Flower" 
-description="Paperbark"
-license="CC BY-SA 2.0">
+description="Paperbark, Photo by John Robert McPherson"
+license="CC BY-SA 4.0">
 
 ###
 The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Rumphius, famed as ‘the Pliny of the Indies’, found in the Indonesian Maluku Islands during his employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, Herbarium Amboinense (1741), shown to the right, was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 

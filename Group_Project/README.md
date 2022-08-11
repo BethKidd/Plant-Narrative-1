@@ -66,7 +66,7 @@ In the Herbarium Amboinense, from which Linnaeus was able to classify dozens of 
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 
 ###
-This temporary visage following a bushfire, white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It is a familiar characteristic to this day. In a recent work of Australian novelist Peter Carey, the ‘pale blue eyes' of a character disfigured by burns are said to 'peer out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.’
+Ruphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek mela (black) and leuca (white). It remains a strong association for those familiar with the tree. In a recent work of Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
 label="Paperbark after a Bushfire" 

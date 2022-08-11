@@ -108,7 +108,7 @@ label="Banks and Solander Herbarium Specimen"
 fit="contain">
 
 ### Indigenous Treasure 
-The paperbark’s centrality to indigenous communities predates these eighteenth-century ‘discoveries’ by many thousands of years. It goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku peoples, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of indigenous peoples, including those of New Caledonia and Papua New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it holds a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.
+The paperbark’s centrality to indigenous communities predates its eighteenth-century ‘discovery’ by many thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of indigenous peoples, including those of New Caledonia and Papua New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it continues to hold a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.
 <param ve-entity eid="Q22918391">
 <param ve-entity eid="Q1996477">
 <param ve-entity eid="Q3913796">

@@ -19,7 +19,7 @@ It is a similar tale of colonial afforestation that accounts for the broad-leaf 
 <param ve-entity eid="Q41806542">
 <param ve-entity eid="Q597281">
 <param ve-entity eid="Q96374738" aliases="'champion tree'">
-<param ve-entity eid"Q2384419">
+<param ve-entity eid="Q2384419">
 <param ve-map
  center="-23.446764, 136.196881"
  zoom="4"

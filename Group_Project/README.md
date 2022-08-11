@@ -13,16 +13,7 @@ description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
 license="Unknown">
 
 ### 
-A similar colonial propensity for [afforestation](https://en.wikipedia.org/wiki/Afforestation) haunts further histories of Paperbark’s spread.  The accounts of early twentieth century developers in South Florida share in the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.  For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A memorial plaque in Lange Park, less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
-<param ve-image 
-url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
-label="Lange Plaque" 
-description="Memorial Plaque, Lange Park"
-license="Unknown"
-fit="contain">
-
-###
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A similar colonial propensity for [afforestation](https://en.wikipedia.org/wiki/Afforestation) haunts further histories of Paperbark’s spread.  The accounts of early twentieth century developers in South Florida share in the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.  For decades, *M. quinquenervia* was lauded as the tree that would dry up the Everglades, converting the putrid swamp into productive farmland. Departments of forestry subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp. So highly prized was the paperbark for both its utility and ornamental value, early seed importers jostled to be recognized as its first American planter. A [memorial plaque in Lange Park,](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg) less than ten miles east of the Everglades, boasts John Lange’s Melaleuca of 1900 to be the oldest in the region. Towering 83 feet prior to a lightning strike of 1990, it also came to be the tallest, for which it was awarded listed status as a so-called ‘champion tree’ by the American Forestry Association of 1981. 
 <param ve-map
  center="-23.446764, 136.196881"
  zoom="4"
@@ -30,6 +21,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  show-labels
  basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson url="OriginalRange.json">
+<param ve-image 
+url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
+label="Lange Plaque" 
+description="Memorial Plaque, Lange Park"
+license="Unknown"
+fit="contain">
 
 ### 
 The Melaleuca’s fall from grace has been swift and steep—though not universal. It remains a treasured species by indigenous and settler Australians alike, its uses and cultural significance predating these colonial projects by many thousands of years. Meanwhile, botanists increasingly concerned for the species’ dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the *M. quinquinervia* is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’. Laws have emerged since the 1990s in effort to eliminate its presence. Not even the prized Melaleuca of Lange park is exempt from ill will: “This is a living monument that needs to die”, insisted Broward County Environmental executive, Patti Webster. “It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree".

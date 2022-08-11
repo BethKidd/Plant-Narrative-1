@@ -49,13 +49,6 @@ license="CC BY-SA 3.0">
 
 ### Section 2: Colonial History, Naming, Morphology
 The Melaleuca quinquenervia belongs to a genus of the Myrtle or Myrtaceae family, closely related to that of the Eucalyptus, and largely endemic to mainland Australia—its southern limit at Botany Bay—with some species of Melaleuca also found in New Caledonia and Indonesia. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its <span data-mouseover-image-zoomto=“707,889,1286,1215”>flowers</span>, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong, with, as its epithet specifies, five veins (quinquenervia). 
-<param ve-map
- center="-23.446764, 136.196881"
- zoom="4"
- Title="Original Range of M. quinquenervia"
- show-labels
- basemap="Esri_WorldPhysical">
- <param ve-map-layer geojson url="OriginalRange.json">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/8/81/Melaleuca_quinquenervia_flowers_7th_Brigade_Park_Chermside_P1210751.jpg"
 label="Paperbark in Flower" 

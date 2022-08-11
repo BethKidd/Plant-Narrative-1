@@ -70,6 +70,7 @@ fit="contain">
 
 ###
 In the *Herbarium Amboinense*, from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as ‘Caju-puti’, to which he gives the Latin ‘Arbor alba’ (white tree) and Dutch ‘Witte Boom’. He also gives an additional synonym, ‘brant-boomen’ or ‘fire tree’, noting the apparent mystery that, though ‘no beast ever saw this tree burn, who paid the least attention’, and though often found in proximity to apparently untarnished trees, ‘the bottom of this trunk is always most black, as if it had been burnt’, suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame. 
+<param ve-entity eid="Q34740">
 <param ve-iframe                                               
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed">
 

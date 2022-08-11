@@ -55,7 +55,7 @@ description="Paperbark, Photo by John Robert McPherson"
 license="CC BY-SA 4.0">
 
 ###
-The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius, famed as ‘the Pliny of the Indies’, found in the Indonesian Maluku Islands during his employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, *Herbarium Amboinense* (1741), shown to the right, was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
+The Melaleuca genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius, famed as ‘the Pliny of the Indies’, found on expeditions in the Indonesian Maluku Islands during his employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, *Herbarium Amboinense* (1741) was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
 <param ve-entity eid="Q1043">
 <param ve-entity eid="Q61439">
 <param ve-entity eid="Q3827">

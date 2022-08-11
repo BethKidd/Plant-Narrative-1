@@ -71,6 +71,7 @@ The Melaleuca genus was created in 1750 by Carl Linnaeus based on observations o
 <param ve-entity eid="Q3827">
 <param ve-entity eid="Q159766">
 <param ve-entity eid="Q82778">
+<param ve-entity eid="Q545430">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/2/2f/G.E._Rumphius%2C_D%27Amboinsche%2C_frontispiece._Wellcome_L0022386.jpg"
 label="Georg Eberhard Rumpf, alias 'Rumphius'" 

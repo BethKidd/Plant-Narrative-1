@@ -53,6 +53,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/4/45/Melaleuca_quinquenervia
 label="Paperbark in Flower" 
 description="Paperbark, Photo by John Robert McPherson"
 license="CC BY-SA 4.0">
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/5/57/Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_%2824256633283%29.jpg"
+label="Paperbark Fruit" 
+description="Paperbark fruit, photo by Forest & Kim Starr"
+license="CC BY-SA 3.0">
 
 ###
 The Melaleuca genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius, famed as ‘the Pliny of the Indies’, found on expeditions in the Indonesian Maluku Islands during his employment for the Dutch East India Company in the late-seventeenth century. Rumphius’ botanical work, *Herbarium Amboinense* (1741) was published decades posthumously against all odds, despite the author’s acquired blindness in late life, the loss of his library to a fire, and the destruction of early copies in a shipwreck. 

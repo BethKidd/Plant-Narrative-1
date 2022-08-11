@@ -21,12 +21,6 @@ A similar colonial propensity for [afforestation](https://en.wikipedia.org/wiki/
  show-labels
  basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson url="OriginalRange.json">
-<param ve-image 
-url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
-label="Lange Plaque" 
-description="Memorial Plaque, Lange Park"
-license="Unknown"
-fit="contain">
 
 ### 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. “This is a living monument that needs to die”, insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor. “It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree". These later comments follow a series of laws passed in the 1990s designed to eliminate the species presence in southern Florida. Botanists increasingly concerned for the species’ dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his Demons in Eden (2005), the M. quinquenervia is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’ at a current rate of [insert]. 
@@ -36,10 +30,11 @@ label="Lange Melaleuca, Struck by Lightning"
 description="Lange Melaleuca, Struck by Lightning"
 license="Unknown">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/d/d2/Tree_Stump_of_Paper-bark_Tea_Tree_at_Xinzhong_Street%2C_Taipei_20160116.jpg"
-label="Melaleuca Stump" 
-description="Tree Stump of Paper-bark Tea Tree at Xinzhong Street, Taipei"
-license="CC BY-SA 3.0">
+url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
+label="Lange Plaque" 
+description="Memorial Plaque, Lange Park"
+license="Unknown"
+fit="contain">
 
 ### Section 2: Colonial History, Naming, Morphology
 The Melaleuca quinquenervia belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia and Indonesia, with a southern geographical limit of Botany Bay.. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. 

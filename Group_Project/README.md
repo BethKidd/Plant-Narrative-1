@@ -32,7 +32,7 @@ The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and
 <param ve-entity eid="Q494624">
 <param ve-image 
 url="https://fastly.4sqi.net/img/general/width960/7541956_c8CurhR2CFAz4nhz4Nu__PWkX57Ny2jqUQF9D_qZKv8.jpg"
-label="Lange Melaleuca, Struck by Lightning" 
+label="Lange Melaleuca, Struck by Lightning in 1990" 
 description="Lange Melaleuca, Struck by Lightning"
 license="Unknown">
 <param ve-image 

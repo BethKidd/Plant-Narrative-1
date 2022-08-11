@@ -6,7 +6,8 @@
   
 ### Section 1: Introduction
 Throughout the late nineteenth and twentieth centuries, the expansion of colonial rule in Hong Kong could be tracked along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general.  The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst ‘primitive.’  The self-identified task of the new government was to plant trees for multipronged effect, to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the indigenous landscape and move it steadily toward an ideal imported from the forested English countryside. Newly formed Agriculture and Forestry Departments approached this assignment voraciously, planting over a million trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and Papua New Guinea.  One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
-<param ve-entity eid="Q1054923" title="colonial rule">
+<param ve-entity eid="Q1054923">
+<param ve-entity eid"Q33788">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
 label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
@@ -46,6 +47,7 @@ fit="contain">
 The Melaleuca quinquenervia belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, these trees are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The quinquenervia, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of up to 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. 
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
+<param ve-entity eid"Q33788">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/4/45/Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
 label="Paperbark in Flower" 
@@ -58,6 +60,7 @@ The Melaleuca (‘paperbark’) genus was created in 1750 by Carl Linnaeus based
 <param ve-entity eid="Q61439">
 <param ve-entity eid="Q3827">
 <param ve-entity eid="Q159766">
+<param ve-entity eid="Q82778">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/b/bd/Georg_Eberhard_Rumpf.jpg"
 label="Georg Eberhard Rumpf, alias 'Rumphius'" 

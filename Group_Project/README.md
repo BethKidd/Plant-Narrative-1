@@ -4,6 +4,9 @@
   banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
   layout="vertical">
   
+###
+Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
+  
 ### Introduction: A Fall from Grace
 Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst “primitive.” The self-identified task of the new government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside. The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and the island of New Guinea.  One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
 <param ve-entity eid="Q1054923">
@@ -212,7 +215,8 @@ license="CC BY-SA 4.0">
 Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life, including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
-label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia" 
+label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020
+" 
 description="protest bark"
 license="granted by holder">
 

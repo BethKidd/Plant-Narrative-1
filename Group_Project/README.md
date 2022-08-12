@@ -6,9 +6,14 @@
   
 ###
 Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
+label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
+description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
+license="Unknown">
   
 ### Introduction: A Fall from Grace
-Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst “primitive.” The self-identified task of the new government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside. The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and the island of New Guinea.  One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
+Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst “primitive.”[^1] The self-identified task of the new government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and the island of New Guinea.  One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
 <param ve-entity eid="Q1054923">
 <param ve-entity eid"Q33788">
 <param ve-image 

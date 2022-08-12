@@ -253,6 +253,16 @@ The global dispersion of the paperbark tree was accompanied by a patchy and inco
        Title="Dense areas of _M. quinquenervia_ in South Florida"
        basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="EvergladesNew.json">
+<param ve-map-marker
+       url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Starr_031108-0007_Melaleuca_quinquenervia.jpg"
+       coords="26.161043, -81.077436"
+       size="350, 150"
+       circle="true">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.jpg"
+       coords="26.960959, -80.795298"
+       size="350, 150"
+       circle="true">
 
 ### 
 It is difficult to pinpoint exactly when the tree’s reputation began to sour, but it is clear that as the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that had made the tree initially attractive became those that made it most despised. _M. quinquenervia_ grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions. South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of anthropogenic burning by Indigenous groups. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction. The aforementioned seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, a majority of which was comprised of monocultural stands.

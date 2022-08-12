@@ -246,6 +246,7 @@ It is difficult to pinpoint exactly when the tree’s reputation began to sour, 
        description="a dense monoculture of paperbark lines I-75, the highway that passes through the Florida Everglades"
        license="CC BY 3.0"
 <param ve-entity eid="Q123452" aliases="endemic zone">
+<param ve-entity eid="Q220212" aliases="monocultural"
 
 ### 
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of control.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever encroaching, ever anthropomorphized enemy, the tree.  Tactics of control are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.  A 1997 article in the New York Times speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark.  The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.  In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.” 
@@ -255,6 +256,8 @@ Militaristic analogies reenter the narrative of the Paperbark tree in discussion
        description="Weevil increasingly used for biological control of the paperbark in South Florida"
        license="CC0"
        fit="contain"
+<param ve-entity eid="Q116890" aliases="biological control"
+<param ve-entity eid="Q14543518">
 
 ### 
 It is a small jump from this metaphorical dometical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he “trudged across the bulldozed fields” in south-east Queensland “shaking my head in dismay, thinking back to my American friends, and how they would love to see a scene like this acted out in Florida.” It is an area of wetland fast being developed for human habitation. And in preserved wilderness, it faces botanical challenges of its own. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (Annona glabra). It is difficult not to conceive of this development as an act of botanical revenge.

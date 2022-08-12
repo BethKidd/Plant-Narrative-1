@@ -5,7 +5,7 @@
   layout="vertical">
   
 ### Introduction: A Fall from Grace
-Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general.  The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst ‘primitive.’ The self-identified task of the new government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside. The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and the island of New Guinea. One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
+Throughout the late nineteenth and twentieth centuries, one could trace the expansion of colonial rule in Hong Kong along the treeline. British accounts of the pre-colonial landscape abound with assessments of bleak barrenness, of sun-scorched rocky topography divested of trees and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst “primitive.” The self-identified task of the new government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat, and to temper the barren ‘wild’ of the Indigenous landscape, moving it steadily toward an ideal imported from the forested English countryside. The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century. Most of the species chosen to fill the rocky ridges were sourced from climatic neighbors like northeastern Australia, New Caledonia, and the island of New Guinea.  One such tree was the broad-leaf Paperbark species *Melaleuca quinquenervia* which can still be found lining streets in urban zones and filling wetland ecosystems.
 <param ve-entity eid="Q1054923">
 <param ve-entity eid"Q33788">
 <param ve-image 
@@ -171,14 +171,14 @@ description="raft photo"
 license="CC BY 4.0">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
-label="Melaleuca Mulch" 
-description="raft photo"
-license="CC BY 4.0">
+label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
+description="bark painting"
+license="granted by holder">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
-label="Melaleuca Mulch" 
+label="_Walba_, David Payne" 
 description="raft design"
-license="">
+license="granted from holder">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
 label="Paperbark for food wrapping" 
@@ -186,9 +186,9 @@ description="paperbark cuisine"
 license="CC BY-SA 3.0">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
-label="basket" 
+label="_Paperbark Basket_, England Banggala, 1994" 
 description="basket"
-license="permission">
+license="granted by holder">
 
 
 ###
@@ -197,16 +197,16 @@ Paperbark provided women with a genuinely utilitarian material. *Melaleuca's* oi
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg"
 label="Aboriginal Coolamons" 
-description="addlater"
+description="coolamon"
 license="CC BY-SA 4.0">
 
 ###
 Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. Aboriginal Australians incorporate paperbark into every phase of life, including funerary rituals. Humans have used paperbark for communicating, smoking, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Artifact1988.jpg?raw=true"
-label="needed still" 
-description="needed still"
-license="needed still">
+label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia" 
+description="protest bark"
+license="granted by holder">
 
 ###
 Aboriginal Australians value paperbark so highly that some have incorporated the tree into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the name she adopted in 1988  translates to “paperbark tree of the Noonuccal,” crediting the group name of her ancestors. Noonuccal devoted her life to articulating the feelings of Aboriginal people and combating social inequality. Her writing explores themes of cultural identity, spirituality, place and time, interwoven withrich descriptions of Australia’s natural environment. In the poem “Oodgeroo,” which dates to the time of her name change, Noonuccal tells the story of a woman severed from her culture and people who, with the help of Biami the Good Spirit and the paperbark trees, spent many years recording (on paperbark) lost tribal stories. The poem concludes with the woman’s adoption into a tribe of paperbark trees, with her old foe Time losing his power over her and the woman finding peace. In this poem, the utility of *Melaleuca* and Noonuccal’s feeling of kinship with the trees is evident. Noonuccal advocated not only for Aboriginal Australians but for the environment. Her work draws attention to ecological symbiosis and the importance of the natural environment to Indigenous peoples and traditions.

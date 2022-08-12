@@ -112,12 +112,12 @@ label="Banks and Solander Herbarium Specimen"
 fit="contain">
 
 ### Indigenous Treasure 
-The paperbark’s centrality to indigenous communities predates its eighteenth-century ‘discovery’ by many thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it continues to hold a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.
+The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by many thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it continues to hold a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.
 <param ve-entity eid="Q22918391">
 <param ve-entity eid="Q1996477">
 <param ve-entity eid="Q3913796">
 <param ve-entity eid="Q1406574">
-<param ve-video id="1n-zJNdfQJI" 
+<param ve-video id="1n-zJNdfQJI&t=0m30s" 
 title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
 
 ### 
@@ -195,16 +195,9 @@ Aboriginal Australians so value paperbark that some have incorporated the tree i
 <param ve-video id="ZPQr30eEQdY" 
 title="Oodgeroo Noonuccal Reading Her Poems">
 
-###
-Formerly known as Kath Walker, in 1988, she adopted the name which translates to “paperbark tree of the Noonuccal,” crediting the group name of her ancestors. In the poem “Oodgeroo” which dates to the time of her name change, Noonuccal tells the story of a woman severed from her culture and people who, with the help of Biami the Good Spirit and the paperbark trees, spent many years recording lost tribal stories. The poem concludes with the woman’s adoption into a tribe of paperbark trees, with her old foe Time losing his power over her and the woman finding peace. In this poem, the utility of Melaleuca and Noonuccal’s feeling of kinship with the trees is evident.
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/ONphoto.jpg?raw=true"
-label="Melaleuca Mulch" 
-description="Melaleuca Mulch"
-license="CC BY-NC 2.0">
 
 ### 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paragraph is dedicated to the over simplified network visual example. We plan on deleting this paragraph but we want to let the developers troubleshoot here if they'd like. Blah blah blah why won't our network work? We'd love to include it but oh well. Nonsense nonsense and now latin ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-vis-network title="Network example" url="Networkexample.tsv">
 
 ### A Changing Landscape 

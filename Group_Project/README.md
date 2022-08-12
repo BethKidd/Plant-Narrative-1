@@ -117,7 +117,7 @@ The paperbark’s centrality to Indigenous communities predates its eighteenth-c
 <param ve-entity eid="Q1996477">
 <param ve-entity eid="Q3913796">
 <param ve-entity eid="Q1406574">
-<param ve-video id="1n-zJNdfQJI&t=0m30s" 
+<param ve-video id="1n-zJNdfQJI?t=0m30s" 
 title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
 
 ### 

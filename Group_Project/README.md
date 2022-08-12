@@ -29,7 +29,7 @@ It is a similar tale of colonial afforestation that accounts for the broad-leaf 
  <param ve-map-marker
         url="https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg"
         coords="26.11269252999823,-80.2293067600417"
-        size="512,328"
+        size="350,150"
         circle="true">
 
 ### 

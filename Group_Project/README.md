@@ -22,11 +22,11 @@ It is a similar tale of colonial afforestation that accounts for the broad-leaf 
 <param ve-entity eid="Q2384419">
 <param ve-map
  center="-23.446764, 136.196881"
- zoom="4"
- Title="Original Range of M. quinquenervia"
+ zoom="12"
+ Title="Global Spread of M. quinquenervia"
  show-labels
  basemap="Esri_WorldPhysical">
- <param ve-map-layer geojson url="OriginalRange.json">
+ <param ve-map-layer geojson url="GlobalSpread.json">
 
 ### 
 The broad-leaf paperbark of Lange Park is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. 'This is a living monument that needs to die', insisted Broward County Environmental executive, Patti Webster, only a decade following its national honor. 'It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree'. These later comments follow a series of laws passed in the 1990s designed to eliminate the species’ presence in southern Florida. Botanists increasingly concerned for its dominance in the Everglades now enlist terms of war to describe its reproduction. To Jonathan Silvertown, in his *Demons in Eden* (2005), the *M. quinquenervia* is part of an ‘army’ that ‘arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems’ at a current rate of [insert]. It is a villainous identity difficult to square with the paperbark’s long history as a treasure of aboriginal culture and bushcraft. How did this tree come to trace such a capricious path in its human alliances? 

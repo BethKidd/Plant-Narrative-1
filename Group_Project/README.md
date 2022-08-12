@@ -212,8 +212,8 @@ The global dispersion of the paperbark tree was accompanied by a patchy and inco
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="7"
-       Title="Dense areas of _M. quinquenervia_ in South Florida">
-<param ve-map basemap="Esri_WorldPhysical">
+       Title="Dense areas of _M. quinquenervia_ in South Florida"
+       basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="EvergladesNew.json">
      
 https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/

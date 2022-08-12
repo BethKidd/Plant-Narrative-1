@@ -140,7 +140,7 @@ For generations, the Indigenous populations of Oceania have used *Melaleuca* bar
 <param ve-entity eid="Q28224481">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
-label="_Two people sitting in front of a bush hut, Queensland_ Image courtesy of the State Library of Queensland" 
+label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
 description="A couple sitting outside their paperbark hut"
 license="Public Domain">
 <param ve-image 
@@ -152,7 +152,7 @@ license="CC BY 4.0">
 url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips%2C_1914_-_Frank_Hurley_%2822098482178%29.jpg"
 label="Bush Shower of Paperbark strips and timber, 1914" 
 description="photo of bush shower"
-license="">
+license="none">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
 label="Florimulch Mulch Made with Melaleuca" 
@@ -170,10 +170,26 @@ label="Melaleuca Mulch"
 description="raft photo"
 license="CC BY 4.0">
 <param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
+label="Melaleuca Mulch" 
+description="raft photo"
+license="CC BY 4.0">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
+label="Melaleuca Mulch" 
+description="raft design"
+license="">
+<param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
 label="Paperbark for food wrapping" 
 description="paperbark cuisine"
 license="CC BY-SA 3.0">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
+label="basket" 
+description="basket"
+license="permission">
+
 
 ###
 Paperbark provided women with a genuinely utilitarian material. *Melaleuca's* oils repel insects and vermin, an ideal property for domestic concerns. Not only was *Melaleuca* ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants. In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark or placed in a paperbark lined coolamon. 

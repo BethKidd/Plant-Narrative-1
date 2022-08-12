@@ -228,12 +228,22 @@ This paragraph is dedicated to the over simplified network visual example. We pl
 
 ### Climate Change and Indigenous Management 
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures. Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/0/07/Satellite_image_of_bushfire_smoke_over_Eastern_Australia_%28December_2019%29.jpg"
+label="*Satellite image of bushfire smoke over Easter Australia*"
+description="Satellite image of some"
+license="CC BY-SA 2.0"
+fit="contain">
+       
 
 ###
 Before the arrival of Europeans in Oceania, Indigenous peoples constructed their landscapes by facilitating the growth of specific flora, including *Melaleuca*. Pollen, charcoal, and dendrochronological records indicate the environment of Australia before the eighteenth century was one that required active maintenance by Aboriginal Australians. Key modifications to the environment include anthropogenic burning, wind-and water-induced soil erosion following the removal or alteration of vegetation, irrigation, drained wetlands, redirected waterways, fertilizer use, and the introduction and exploitation of specific flora and fauna. One of the most powerful tools for land management is anthropogenic or prescribed burning, which has been used globally for hunting and environmental alteration. The fires typically cover small areas of land, herding animals while burning grasses and underbrush. The heat and lack of competition encourage the growth of a diverse range of annual vegetation, creating ecologically heterogeneous patches. Small and frequently prescribed burning can reduce the chances of subsequent high-severity wildfires. To promote more sustainable practices, Australians have worked to reincorporate elements of Indigenous land management. For instance, the Ngarrindjeri Nation in South Australia has negotiated with the State Government to be recognized as a sovereign partner in environmental management and implemented a program that facilitates continued collaboration, training, and the protection of cultural values of the sites. Federal funding has supported the replacement of non-native flora with M. quinquenervia and other endemic species native to eastern Australia, including tuckeroo and lomandra. 
 <param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fire_biologist_lights_controlled_burn_%286022164769%29.jpg"
        label="Controlled burning underway"
+       description="Controlled burn"
+       license="Public Domain"
+       fit="contain">
 
 ### An Advancing Enemy in Florida 
 The global dispersion of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around the Everglades saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing nature would make it ideal for converting the swamp into a dry and “productive” agricultural landscape while eradicating mosquitos and other pests. Its thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around Lake Okeechobee. Finally, especially in its early years, it was appreciated simply as an ornamental and was planted as such in yards and gardens around south Florida.  Today, scientists are recognizing another utility for M. quinquenervia as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall. Although the tree certainly arrived without the full, multifaceted wealth of uses that it carried in its endemic range, it entered the environment of Florida as an appreciated and valuable addition. This  positive reading accompanied the tree for much of the twentieth century.      
@@ -260,7 +270,7 @@ Militaristic analogies reenter the narrative of the Paperbark tree in discussion
        url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Melaleuca_leaf_weevil.jpg"
        label="Melaleuca Leaf Weevil, _Oxyops vitiosa_"
        description="Weevil increasingly used for biological control of the paperbark in South Florida"
-       license="CC0"
+       license="Public Domain"
        fit="contain"
 <param ve-entity eid="Q116890" aliases="biological control"
 
@@ -274,7 +284,7 @@ This framing of human-plant relationships as bitter conflict and warfare is a re
        label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
        fit="contain">
 <param ve-entity eid="Q42985020"
-<param ve-entity eid="Q1066200" aliases="Charles Elton"
+<param ve-entity eid="Q1066200" aliases="Charles Elton's"
 
 ###                                                                                                           
 The vilification of the Paperbark seems to have arisen in this same moment toward the end of the twentieth century.  Just as ‘invasives’ were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the *Federal Noxious Weed List*, restricting its sale, circulation, and importation throughout the United States.  In the later part of the 1990s this zeal for prevention morphed into one for eradication, and great sums of money, from both federal agencies and NGOs, was put towards the removal of preexisting stands in Florida.  Legislation supported by its invasive status implies that nearly anything is preferable to the presence of the tree.   

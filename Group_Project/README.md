@@ -48,7 +48,7 @@ license="Unknown"
 fit="contain">
 
 ### Colonial Discovery 
-The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, Melaleucas are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. 
+The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, Melaleucas are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as ‘broadleaf’, can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of Melaleucas, comprise spiked clusters of petals from which it derives an additional common name: ‘bottle-brush tree’. Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet 'quinquenervia'. As a fire adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil. 
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
@@ -70,7 +70,7 @@ description="Paperbark fruit, photo by Forest & Kim Starr"
 license="CC BY-SA 3.0">
 
 ###
-The Melaleuca genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702), found on the Indonesian Maluku Islands in the 1660s, during his empoloyment for the Dutch East India Company. Famed as ‘the Pliny of the Indies’, Rumphius’ botanical work, *Herbarium Amboinense* (1741) was published decades posthumously against all odds, despite the author’s acquired blindness in late life (depicted in the frontispiece here), the loss of his library to a fire, and the destruction of early copies in a shipwreck. 
+The *Melaleuca* genus was created in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment for the Dutch East India Company. Famed as “the Pliny of the Indies,” Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds, despite the author’s acquired blindness in late life (depicted in the frontispiece here), the loss of his library to a fire, and the destruction of early copies in a shipwreck.  
 <param ve-entity eid="Q1043">
 <param ve-entity eid="Q61439">
 <param ve-entity eid="Q3827">
@@ -84,14 +84,14 @@ license="Public Domain"
 fit="contain">
 
 ###
-In the *Herbarium Amboinense*, a work from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as ‘Caju-puti’, to which he gives the Latin ‘*Arbor alba*’ (white tree) and Dutch ‘Witte Boom’. He also gives an additional synonym, ‘brant-boomen’ or ‘fire tree’, noting the apparent mystery that, though ‘no beast ever saw this tree burn, who paid the least attention’, and though often found in proximity to apparently untarnished trees, ‘the bottom of this trunk is always most black, as if it had been burnt’, suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame. 
+In the *Herbarium Amboinense*, a work from which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as “Caju-puti”, to which he gives the Latin *Arbor alba* (white tree) and Dutch “Witte Boom.” He also provides an additional synonym, “Brant-Boomen” or “fire tree,” noting the apparent mystery that, though “no beast ever saw this tree burn, who paid the least attention, and though often found in proximity to apparently untarnished trees, the bottom of this trunk is always most black, as if it had been burnt,” suggesting to Rumphius that the heat of summer sun would scorch the dry and delicate bark without ever bursting into flame.
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
 fit="contain">
 
 ###
-Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek 'mélas' (black) and 'leukós' (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) by Australian novelist Peter Carey, a character disfigured by burns is pictured possessing ‘pale blue eyes’ which ‘peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark’. 
+Rumphius’ account of the paperbark’s temporary visage following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s permanent name as given by Linnaeus, taken from the Greek “mélas” (black) and “leukós” (white). It remains a strong association for those familiar with the tree. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) by Australian novelist Peter Carey depicts a character, disfigured by burns, whose “pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.”
 <param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
@@ -100,7 +100,7 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-The *quinquenervia* species of Melaleuca received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles. But it also numbered among the plants earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called ‘Botany Bay’ on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia*, collected in Bustard Bay and formerly identified as ‘M. leucadendra’ prior to its reclassification in 1958, is preserved in the Queensland herbarium. The species is also included among the engravings of Banks’ Florilegium, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990. 
+The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles. But it also numbered among the plants earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called “Botany Bay” on Captain Cook’s *HMS Endeavour* between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia*collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium. The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990. 
 <param ve-entity eid="Q545430">
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">

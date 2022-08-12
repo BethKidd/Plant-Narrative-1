@@ -110,6 +110,14 @@ The *quinquenervia* species of *Melaleuca* received formal botanical description
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/PaperbarkHerbarium.jpeg?raw=true"
 label="Banks and Solander Herbarium Specimen"
 fit="contain">
+<param ve-image
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavdes.jpg?raw=true"
+label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+fit="contain">
+<param ve-image
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/cavimage.jpg?raw=true"
+label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+fit="contain">
 
 ### Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by many thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively. To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in America, it continues to hold a pivotal role among Aboriginal cultures. In this corner of the world, people have used paperbark for everything: from kindling to art.

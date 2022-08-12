@@ -128,7 +128,7 @@ title="Paper Bark, Aboriginal Spirit by Shaman Creative.">
 Part of what attracted European botanists and explorers to the paperbark were the many medicinal applications of the tree. A tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil has been used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties used to treat cuts and sores. Ironically in the U.S., *M. quinquenervia* has been labeled an allergen and respiratory irritant. Florida used human health concerns in the rationale for the 1990 ban on the sale, transportation, collection, cultivation, or possession of *Melaleuca*. Since the 1990s, studies have found *M. quinquenervia* is actually not a significant source of aeroallergen or a respiratory irritant. Like other *Melaleuca* species, *M. quinquenervia* produces a tea tree oil. This essential oil is used by many as an antibacterial, fungicide, and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available tea tree oil from *M. alternifolia*, not *M. quinquenervia*. Commonly known as Niaouli, some sellers market the oil from the *M. quinquenervia* as having more robust properties than the more common tea tree oil. 
 <param ve-entity eid="Q48832">
 <param ve-entity eid="Q193237">
-<param ve-entity eid="Q60849514" aliases="Miaouli">
+<param ve-entity eid="Q60849514" aliases="Niaouli">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/oil.jpg?raw=true"
 label="Tea Tree Oil" 
@@ -139,37 +139,40 @@ license="Unsplash photos are made to be used freely">
 For generations, the Indigenous populations of Oceania have used *Melaleuca* bark to construct dwellings. Among some groups, dwellings were built entirely by women who cut the bark, erected the structure, and even carried the components on their backs when traveling. Paperbark sheeting was stored when not in use and sometimes transported, as it is unavailable in some environments. Not only was paperbark significant for building a structure, but it had a further use as a bedding and lining material. These bark structures could range from open-air huts to more substantial constructions intended to avoid the wet season's rains. Australian oral history from the Wik-Mungkan people, an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings. The story tells of a man and woman out foraging who, when caught by surprise by the fast-approaching rainy season, construct one of the first bark shelters. Using *Melaleuca* bark, the couple lined their house and stayed dry until the rainy season passed. Aside from the bark, *Melaleuca* lumber is considered a suitable building material. The wood is hard and fine textured, naturally resistant to termite attacks, but tends to warp and is challenging to cut and season. In Florida, *Melaleuca* has been incorporated into a fine-quality mulch.  
 <param ve-entity eid="Q28224481">
 <param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Paperbarkhut.png?raw=true"
+label="_Two people sitting in front of a bush hut, Queensland_ Image courtesy of the State Library of Queensland" 
+description="A couple sitting outside their paperbark hut"
+license="Public Domain">
+<param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/dwellings.jpg?raw=true"
 label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
 description="description needed"
 license="CC BY 4.0">
-
-###
-NEED TO DELETE from the bark, Melaleuca lumber is considered a suitable building material. The wood is hard and fine textured, naturally resistant to termite attacks, but tends to warp and is challenging to cut and season. In Florida, Melaleuca has been incorporated into fine-quality mulch. Craftspeople have used both the lumber and bark to fabricate boats and rafts. Additionally, Indigenous artisans use paperbark for to craft other vessels, such as liquid-holding containers and baskets.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips%2C_1914_-_Frank_Hurley_%2822098482178%29.jpg"
 label="Bush Shower of Paperbark strips and timber, 1914" 
-description="addlater"
+description="photo of bush shower"
 license="">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
 label="Florimulch Mulch Made with Melaleuca" 
-description="Melaleuca Mulch"
+description="photo of Florimulch"
 license="CC BY-NC 2.0">
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
-label="Melaleuca Mulch" 
-description="Two Aboriginal People, 1940"
-license="">
+
 
 ###
 Ethnographic accounts describe Aboriginal Australians using *Melaleuca* bark for lining earth ovens, wrapping food for cooking and storage, and fuelwood or kindling. More recently, Euro-Australians have also championed the culinary utility of the paperbark tree and Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note food cooked while wrapped in paperbark takes on a smoky flavor and recommend the method for roasting fish, chicken, or vegetables. More than just the bark from *Melaleuca* has culinary applications. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener, which has been used for candies. *M. quinquenervia* is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida. Fishing, an important Indigenous tradition across much of Oceania, was often done from paperbark rafts. Additionally, Indigenous artisans use paperbark to craft other vessels, such as liquid-holding containers and baskets. 
 <param ve-entity eid="Q13580316" aliases=
 "Euro-Australians">
 <param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
+label="Melaleuca Mulch" 
+description="raft photo"
+license="CC BY 4.0">
+<param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
 label="Paperbark for food wrapping" 
-description="addlater"
+description="paperbark cuisine"
 license="CC BY-SA 3.0">
 
 ###

@@ -222,12 +222,20 @@ Aboriginal Australians value paperbark so highly that some have incorporated the
 <param ve-video id="ZPQr30eEQdY" 
 title="Oodgeroo Noonuccal Reading Her Poems">
 
-
 ### 
 This paragraph is dedicated to the over simplified network visual example. We plan on deleting this paragraph but we want to let the developers troubleshoot here if they'd like. Blah blah blah why won't our network work? We'd love to include it but oh well. Nonsense nonsense and now latin ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-vis-network title="Network example" url="Networkexample.tsv">
 
-### A Changing Landscape 
+### Climate Change and Indigenous Management 
+In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures. Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
+
+###
+Before the arrival of Europeans in Oceania, Indigenous peoples constructed their landscapes by facilitating the growth of specific flora, including *Melaleuca*. Pollen, charcoal, and dendrochronological records indicate the environment of Australia before the eighteenth century was one that required active maintenance by Aboriginal Australians. Key modifications to the environment include anthropogenic burning, wind-and water-induced soil erosion following the removal or alteration of vegetation, irrigation, drained wetlands, redirected waterways, fertilizer use, and the introduction and exploitation of specific flora and fauna. One of the most powerful tools for land management is anthropogenic or prescribed burning, which has been used globally for hunting and environmental alteration. The fires typically cover small areas of land, herding animals while burning grasses and underbrush. The heat and lack of competition encourage the growth of a diverse range of annual vegetation, creating ecologically heterogeneous patches. Small and frequently prescribed burning can reduce the chances of subsequent high-severity wildfires. To promote more sustainable practices, Australians have worked to reincorporate elements of Indigenous land management. For instance, the Ngarrindjeri Nation in South Australia has negotiated with the State Government to be recognized as a sovereign partner in environmental management and implemented a program that facilitates continued collaboration, training, and the protection of cultural values of the sites. Federal funding has supported the replacement of non-native flora with M. quinquenervia and other endemic species native to eastern Australia, including tuckeroo and lomandra. 
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fire_biologist_lights_controlled_burn_%286022164769%29.jpg"
+       label="Controlled burning underway"
+
+### An Advancing Enemy in Florida 
 The global dispersion of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around the Everglades saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing nature would make it ideal for converting the swamp into a dry and “productive” agricultural landscape while eradicating mosquitos and other pests. Its thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around Lake Okeechobee. Finally, especially in its early years, it was appreciated simply as an ornamental and was planted as such in yards and gardens around south Florida.  Today, scientists are recognizing another utility for M. quinquenervia as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall. Although the tree certainly arrived without the full, multifaceted wealth of uses that it carried in its endemic range, it entered the environment of Florida as an appreciated and valuable addition. This  positive reading accompanied the tree for much of the twentieth century.      
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
@@ -235,8 +243,6 @@ The global dispersion of the paperbark tree was accompanied by a patchy and inco
        Title="Dense areas of _M. quinquenervia_ in South Florida"
        basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="EvergladesNew.json">
-     
-https://juncture-digital.org/BethKidd/Plant-Narrative-1/Group_Project/
 
 ### 
 It is difficult to pinpoint exactly when the tree’s reputation began to sour, but it is clear that as the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that had made the tree initially attractive became those that made it most despised. _M. quinquenervia_ grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions. South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of anthropogenic burning by Indigenous groups. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction. The aforementioned seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, a majority of which was comprised of monocultural stands.
@@ -257,7 +263,6 @@ Militaristic analogies reenter the narrative of the Paperbark tree in discussion
        license="CC0"
        fit="contain"
 <param ve-entity eid="Q116890" aliases="biological control"
-<param ve-entity eid="Q14543518" aliases="Lophodiplosis trifida">
 
 ### 
 It is a small jump from this metaphorical dometical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he “trudged across the bulldozed fields” in south-east Queensland “shaking my head in dismay, thinking back to my American friends, and how they would love to see a scene like this acted out in Florida.” It is an area of wetland fast being developed for human habitation. And in preserved wilderness, it faces botanical challenges of its own. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (Annona glabra). It is difficult not to conceive of this development as an act of botanical revenge.
@@ -268,9 +273,11 @@ This framing of human-plant relationships as bitter conflict and warfare is a re
        url="https://www.biodiversitylibrary.org/pageImage/16604010"
        label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
        fit="contain">
+<param ve-entity eid="Q42985020"
+<param ve-entity eid="Q1066200" aliases="Charles Elton"
 
 ###                                                                                                           
-The vilification of the Paperbark seems to have arisen in this same moment toward the end of the twentieth century.  Just as ‘invasives’ were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the Federal Noxious Weed List, restricting its sale, circulation, and importation throughout the United States.  In the later part of the 1990s this zeal for prevention morphed into one for eradication, and great sums of money, from both federal agencies and NGOs, was put towards the removal of preexisting stands in Florida.  Legislation supported by its invasive status implies that nearly anything is preferable to the presence of the tree.   
+The vilification of the Paperbark seems to have arisen in this same moment toward the end of the twentieth century.  Just as ‘invasives’ were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the *Federal Noxious Weed List*, restricting its sale, circulation, and importation throughout the United States.  In the later part of the 1990s this zeal for prevention morphed into one for eradication, and great sums of money, from both federal agencies and NGOs, was put towards the removal of preexisting stands in Florida.  Legislation supported by its invasive status implies that nearly anything is preferable to the presence of the tree.   
 <param ve-knightlab-timeline
 source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
 timenav-position="bottom"

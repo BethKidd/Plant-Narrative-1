@@ -257,7 +257,7 @@ Militaristic analogies reenter the narrative of the Paperbark tree in discussion
        license="CC0"
        fit="contain"
 <param ve-entity eid="Q116890" aliases="biological control"
-<param ve-entity eid="Q14543518">
+<param ve-entity eid="Q14543518" aliases="Lophodiplosis trifida">
 
 ### 
 It is a small jump from this metaphorical dometical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he “trudged across the bulldozed fields” in south-east Queensland “shaking my head in dismay, thinking back to my American friends, and how they would love to see a scene like this acted out in Florida.” It is an area of wetland fast being developed for human habitation. And in preserved wilderness, it faces botanical challenges of its own. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple native to the Everglades, (Annona glabra). It is difficult not to conceive of this development as an act of botanical revenge.

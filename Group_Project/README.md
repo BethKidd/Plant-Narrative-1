@@ -22,7 +22,7 @@ It is a similar tale of colonial afforestation that accounts for the broad-leaf 
 <param ve-entity eid="Q2384419">
 <param ve-map
  center="0,0"
- zoom="3"
+ zoom="2"
  Title="Global Spread of M. quinquenervia"
  basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson url="GlobalReach.json">

@@ -245,6 +245,7 @@ It is difficult to pinpoint exactly when the tree’s reputation began to sour, 
        label="_M. quinquenervia_ stand lining I-75 in the Everglades"
        description="a dense monoculture of paperbark lines I-75, the highway that passes through the Florida Everglades"
        license="CC BY 3.0"
+<param ve-entity eid="Q123452" aliases="endemic zone">
 
 ### 
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of control.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever encroaching, ever anthropomorphized enemy, the tree.  Tactics of control are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.  A 1997 article in the New York Times speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark.  The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.  In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.” 

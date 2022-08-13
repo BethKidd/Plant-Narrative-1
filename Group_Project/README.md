@@ -208,7 +208,7 @@ license="granted by holder">
 
 
 ###
-Paperbark provided women with a genuinely utilitarian material. *Melaleuca's* oils repel insects and vermin, an ideal property for domestic concerns. Not only was *Melaleuca* ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants.[^27] In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark or placed in a paperbark lined coolamon. 
+Paperbark provided women with a genuinely utilitarian material. *Melaleuca's* oils repel insects and vermin, an ideal property for domestic concerns. Not only was *Melaleuca* ideal for building structures and cooking, but women incorporated the bark into birthing traditions and the early care of infants.[^27] In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and then the newly born baby was wrapped in paperbark or placed in a paperbark-lined coolamon. 
 <param ve-entity eid="Q1129683">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg"
@@ -255,7 +255,7 @@ Before the arrival of Europeans in Oceania, Indigenous peoples constructed their
        fit="contain">
 
 ### An Advancing Enemy in Florida 
-The global dispersion of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around <span data-mouseover-map-flyto="26.161043, -81.077436">the Everglades</span> saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing nature would make it ideal for converting the swamp into a dry and “productive” agricultural landscape while eradicating mosquitos and other pests.[^35] Its thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around <span data-mouseover-map-flyto="26.960959, -80.795298">Lake Okeechobee</span>.[^36] Finally, especially in its early years, it was appreciated simply as an ornamental and was planted as such in yards and gardens around south Florida.[^37] Today, scientists are recognizing another utility for M. quinquenervia as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall.[^38] Although the tree certainly arrived without the full, multifaceted wealth of uses that it carried in its endemic range, it entered the environment of Florida as an appreciated and valuable addition. This positive reading accompanied the tree for much of the twentieth century.      
+The global dispersion of the paperbark tree was accompanied by a patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized a sparse few of the multitude of Aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around <span data-mouseover-map-flyto="26.161043, -81.077436">the Everglades</span> saw potential in the *M. quinquenervia* as a timber species as well as a land management tool; as mentioned previously, they posited that its high water usage and its fast-growing nature would make it ideal for converting the swamp into a dry and “productive” agricultural landscape while eradicating mosquitos and other pests.[^35] Its thick roots were utilized as a natural erosion-prevention infrastructure and were thus employed to stabilize disturbed areas, especially around <span data-mouseover-map-flyto="26.960959, -80.795298">Lake Okeechobee</span>.[^36] Finally, especially in its early years, it was appreciated simply as an ornamental and was planted as such in yards and gardens around south Florida.[^37] Today, scientists are recognizing another utility for M. quinquenervia as a climate recorder. The tree’s leaves can provide proxy data for quantifying past rainfall.[^38] Although the tree certainly arrived without the full, multifaceted wealth of uses that it carried in its endemic range, it entered the environment of Florida as an appreciated and valuable addition. This positive reading accompanied the tree for much of the twentieth century.      
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="9"
@@ -302,15 +302,15 @@ url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Annona_glabra_01.jpg"
        license="Daniel Di Palma, CC BY-SA 4.0">
 
 ### Conclusion:
-This framing of human-plant relationships as bitter conflict and warfare is a relative constant in the discipline of invasion biology. The label “invasive,’ as a scientific term applied to an organism, has its mainstream origins in English zoologist Charles Elton’s 1958 work, *The Ecology of Invasions by Animals and Plants*.[^46] From that initial introduction of the terminology, the field existed in a state of relative dormancy until the mid-to-late 1990s, at when publications on “invasives” skyrocketed.[^47] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the “slow, silent invasion of alien pests” creeping across United States borders.[^48] By 1999, the concepts and terminology had gained such traction that an executive order mandated the formation of the National Invasive Species Council, an inter-agency government coalition with the stated purpose of “safeguard[ing] the interests of the United States by preventing, eradicating, and controlling invasive species […].”[^49]
+This framing of human-plant relationships as bitter conflict and warfare is a relative constant in the discipline of invasion biology. The label “invasive,’ as a scientific term applied to an organism, has its mainstream origins in English zoologist Charles Elton’s 1958 work, *The Ecology of Invasions by Animals and Plants*.[^46] From that initial introduction of the terminology, the field existed in a state of relative dormancy until the mid-to-late 1990s, when publications on “invasives” skyrocketed.[^47] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the “slow, silent invasion of alien pests” creeping across United States borders.[^48] By 1999, the concepts and terminology had gained such traction that an executive order mandated the formation of the National Invasive Species Council, an inter-agency government coalition with the stated purpose of “safeguard[ing] the interests of the United States by preventing, eradicating, and controlling invasive species […].”[^49]
 <param ve-image
 url="https://www.biodiversitylibrary.org/pageImage/16604010"
 label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
 fit="contain">
 <param ve-entity eid="Q42985020">
-<param ve-entity eid="Q1066200" aliases="Charles Elton's">
+<param ve-entity eid="Q1066200" aliases="Charles Elton's"> 
 
-###                                                                                                           
+###
 The vilification of the paperbark arose around the same moment toward the end of the twentieth century. Just as “invasives” were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the Federal Noxious Weed List, restricting its sale, circulation, and importation throughout the United States.[^50] In the later part of the 1990s, this zeal for prevention morphed into one for eradication, and significant sums of money, from both federal agencies and NGOs, were put towards removing preexisting stands in Florida. Legislation supported by its invasive status began to imply that nearly anything, including development, was preferable to the presence of the tree.[^51] In the space of a century, _M. quinquenervia_ had fallen from a plant of immense possibility to an invasive, “garbage” weed. Nothing in the plant had changed; it continues to live and reproduce as it did at the moment of its first Western description. What did shift, however, was an anthropocentric sense of control.  The tree escaped the settings and roles that Floridian planters had hoped to consign it to, thus becoming a vilified reminder that human interests are only one factor and one force shaping our dynamic, global environment.      
 <param ve-knightlab-timeline
 source="1eIQ8ZtzRcfK8AHuPcBqMNI-AQAuLnkoVsjklVtHTR6Y"
@@ -323,7 +323,7 @@ height="750">
 [^1]: Robert Peckham, “Hygienic Nature: Afforestation and the greening of colonial Hong Kong,” *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. 
 [^2]: *Ibid*. p. 1179.
 [^3]: *Ibid*. pp. 1187-1188.
-[^4]: *Ibid. pp. 1181-1182.
+[^4]: *Ibid*. pp. 1181-1182.
 [^5]: Richard T. Corlett, “Environmental forestry in Hong Kong: 1871-1997,” *Forest Ecology and Management*, no. 116, 1999, p. 96.        
 [^6]:  “Everglades of the Peninsula of Florida,” *United States, Congress, Senate, Committee on Public Lands*, August 1848, 30th Congress, 1st Session.
 [^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, “Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.,” *Wetlands Ecology and Management*, no. 5, 1998, p. 167.
@@ -333,32 +333,32 @@ height="750">
 [^11]: French, 1994. 
 [^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. <doi:10.2307/1217885>
 [^13]: Georg Rumphius, *Herbarium amboinense*, vol. 2, (1741).
-[^14]: Peter Carey, *Parrot and Oliver in America* (Hamish Hamiltion: Victoria, 2009)
+[^14]: Peter Carey, *Parrot and Oliver in America* (Hamish Hamilton: Victoria, 2009)
 [^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4 (Madrid, 1797), p. 19.
-[^16]: S. T. Blake, “A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)”, *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.
+[^16]: Stanley Thatcher Blake, “A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)”, *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.
 [^17]: Jan McDonald, "Captain Cook's Florilegium" *La Trobe Journal*, vol. 100, September 2017.
 [^18]: Mental States Volume 2: Language and Cognitive Structure, ed. by Andrea C. Schalley and Drew Khelntzos (2007), pp. 244-6; Nominal Classification in Aboriginal Australia, ed. Mark Harvey and Nicholas Reid (1997), p. 132; See also Caroll 1976, p. 95.
 [^19]: J. H. Maiden, *The Forest Flora of New South Wales*, vol. 1 (Sydney: Government Printer, 1904). 
 [^20]: Florida State. Legislature, Chapter 90-313 Committee Substitute for House Bill No. 2273, July 3, 1990, https://sb.flleg.gov/nxt/gateway.dll/Laws/lf1990/chapters%2090-301%20-%2090-325/ch_90-313.htm?f=templates$fn=document-frameset.htm$3.0
-[^21]: J. J. Stablein, G. A. Bucholtz, R. F. Lockey, “Melaleuca Tree and Respiratory Disease”, *Annals of Allergy, Asthma, & Immunology*, vol. 89, no. 5, 2002, pp. 523-530.
-[^22]: R. Kerkhove & C. Keys, “Australian Settler Bush Huts and Indigenous Bark-Strippers: Origins and Influences”, *Queensland Review* vol. 27, no. 1, 2002, p. 5.
-[^23]: C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland* (Sydney: Angus and Robertson, C, 1904), p. 100.
-[^24]: M. Nyoongah, *Aboriginal Mythology* (London: M, Thorsons, 1994), pp. 14-15.
-[^25]: S. Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country”, *The Journal of Royal Geographical Society of London*, vol. 1, 1831, pp. 21-51.
+[^21]: John J. Stablein, Gerald A. Bucholtz, Richard F. Lockey, “Melaleuca Tree and Respiratory Disease”, *Annals of Allergy, Asthma, & Immunology*, vol. 89, no. 5, 2002, pp. 523-530.
+[^22]: Richard Kerkhove & Cathy Keys, “Australian Settler Bush Huts and Indigenous Bark-Strippers: Origins and Influences”, *Queensland Review* vol. 27, no. 1, 2002, p. 5.
+[^23]: Constance C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland* (Sydney: Angus and Robertson, C, 1904), p. 100.
+[^24]: Mudrooroo Nyoongah, *Aboriginal Mythology* (London: M, Thorsons, 1994), pp. 14-15.
+[^25]: Scott Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country”, *The Journal of Royal Geographical Society of London*, vol. 1, 1831, pp. 21-51.
 [^26]: A. B. & J. W Cribbs, *Useful Wild Plants in Australia* (William Collins: Sydney, 1981)
-[^27]: S. Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remore Northern-Australian Aboriginal Town*, *Charles Darwin University*, 2015, unpublished PhD thesis, p. 254; S. Ireland, S. Belton, A. McGrath, S. Saggers, & C.W Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, vol. 28, 2015, p. 295.
+[^27]: Sarah Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remote Northern-Australian Aboriginal Town*, *Charles Darwin University*, 2015, unpublished Ph.D. thesis, p. 254; Sarah Ireland, Suxanne Belton, Ann McGrath, Sherry Saggers, & Concepta Wulili Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, vol. 28, 2015, p. 295.
 [^28]: Oodgeroo Noonuccal, “Poems”, *Kunapipi*, vol.10, no. 1, 1988. https://ro.uow.edu.au/kunapipi/vol10/iss1/5 
-[^29]: W. Steffen, A. Burbidge, L. Hughes, R. Kitching, D. Lindenmayer, W. Musgrave, M. Stafford Smith, & P. A. Werner, *Australia’s Biodiversity and Climate Change* (CSIRO Publishing Collingwood: VIC, Australia, 2010)
-[^30]: M. S. Fletcher, T Hall, A. N. Alexandra, “The loss of an indigenous constructed landscape following British invasion of Australia: An insight into the deep human imprint on the Australian landscape”, *Ambio*, vol. 50, 2021, pp. 138–149. <doi-org.libproxy.lib.unc.edu/10.1007/s13280-020-01339-3>
+[^29]: Will Steffen, Andrew A. Burbidge, Lesley Hughes, Roger Kitching, David Lindenmayer, Warren Musgrave, Mark Stafford Smith, & Patricia A. Werner, *Australia’s Biodiversity and Climate Change* (CSIRO Publishing Collingwood: VIC, Australia, 2010)
+[^30]: Michael-Shawn Fletcher, Tegan Hall, Andreas Nicholas Alexandra, “The loss of an indigenous constructed landscape following British invasion of Australia: An insight into the deep human imprint on the Australian landscape”, *Ambio*, vol. 50, 2021, pp. 138–149. <doi-org.libproxy.lib.unc.edu/10.1007/s13280-020-01339-3>
 [^31]: Steffen et al., 2010. [see [^29]]
-[^32]: M. D. Hurteau and C. Wiedinmyer, "Prescribed fire as a means of reducing forest carbon emissions in the Western United States", *Environmental Science and Technology*, vol. 44, 2010, pp. 1926-1932.
+[^32]: Matthew D. Hurteau and Christine Wiedinmyer, "Prescribed fire as a means of reducing forest carbon emissions in the Western United States", *Environmental Science and Technology*, vol. 44, 2010, pp. 1926-1932.
 [^33]: “Ngarrindjeri Engagement”, *Department for Environment and Water, Government of South Australia*, 2022, <https://www.environment.sa.gov.au/topics/river-murray/improving-river-health/coorong-lower-lakes-murray-mouth/recovery-project/ngarrindjeri-engagement> [Accessed Aug. 6 2022].
 [^34]: Alicia McCumstie, “International Bush Renewal Effort” in *Central Coast Express Advocate*, December 10 2010 [Accessed Aug. 6 2022].
 [^35]: George F. Meskimen, “A Silvical Study of the Melaleuca Tree in South Florida,” *University of Florida*, Unpublished PhD Thesis, 1962, pp. 12-13; Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea* vol. 3, no. 71, 2006, pp. 221-222.  
 [^36]: Katherine Carter-Finn, Alan W. Hodges, Donna J. Lee, and Michael T. Olexa, “The History and Economics of Melaleuca Management in South Florida,” University of Florida; IFAS Extension, November, 2006, p. 2.
 [^37]: Turner et al, p. 167. [see [^7]]
-[^38]: J. Tibby, C. Barr, F. A. McInerney, A. C. G. Henderson, M. J. Leng, M. Greenway, J. C. Marshall, G. B. McGregor, J. J. Tyler, & V. McNeil, “Carbon isotope discrimination in leaves of the broad-leaved paperbark tree, *Melaleuca quinquenervia*, as a tool for quantifying past tropical and subtropical rainfall” *Global Change Biology*, vol. 22, no. 10, 2016, pp.3474-3486. <doi: 10.1111/gcb.13277>
-[^39]: Turner et al, p. 171. [see [^7]]
+[^38]: John Tibby, Cameron Barr, Francesca A. McInerney, Andrew C. G. Henderson, Melanie J. Leng, Margaret Greenway, Jonathan C. Marshall, Glenn B. McGregor, Jonathan J. Tyler, & Vivienne McNeil, “Carbon isotope discrimination in leaves of the broad-leaved paperbark tree, *Melaleuca quinquenervia*, as a tool for quantifying past tropical and subtropical rainfall” *Global Change Biology*, vol. 22, no. 10, 2016, pp.3474-3486. <doi: 10.1111/gcb.13277>
+[^39]: Turner et al., p. 171. [see [^7]]
 [^40]: *Ibid.* pp. 167-8.  
 [^41]: *Ibid.* pp. 168.
 [^42]: *Ibid.* pp. 171-72.
@@ -369,7 +369,7 @@ height="750">
 [^47]: *Ibid.*, p. 186.
 [^48]: “Harmful non-indigenous species in the U.S.: hearings before the Committee on Governmental Affairs,” *United States, Congress, Senate, Committee on Governmental Affairs*, March 1994, 103rd Congress, 2nd Session. 
 [^49]: “About the Council,” *National Invasive Species Council, U.S. Department of the Interior*, 2022. https://www.doi.gov/invasivespecies/about-nisc [Accessed August 9 2022]. 
-[^50]: Turner et al, p. 171. [see [^7]]
+[^50]: Turner et al., p. 171. [see [^7]]
 [^51]: *Ibid.*, p. 170. 
 
 

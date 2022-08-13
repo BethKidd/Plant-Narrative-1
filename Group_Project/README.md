@@ -288,9 +288,9 @@ Militaristic analogies reenter the narrative of the Paperbark tree in discussion
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Melaleuca_leaf_weevil.jpg"
 label="Melaleuca Leaf Weevil, _Oxyops vitiosa_"
-       description="Weevil increasingly used for biological control of the paperbark in South Florida"
-       license="Public Domain"
-       fit="contain”>
+description="Weevil increasingly used for biological control of the paperbark in South Florida"
+license="Public Domain"
+fit="contain”>
 <param ve-entity eid="Q116890" aliases="biological control”>
 
 ### 
@@ -304,11 +304,11 @@ url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Annona_glabra_01.jpg"
 ### Conclusion:
 This framing of human-plant relationships as bitter conflict and warfare is a relative constant in the discipline of invasion biology. The label “invasive,’ as a scientific term applied to an organism, has its mainstream origins in English zoologist Charles Elton’s 1958 work, *The Ecology of Invasions by Animals and Plants*.[^46] From that initial introduction of the terminology, the field existed in a state of relative dormancy until the mid-to-late 1990s, at when publications on “invasives” skyrocketed.[^47] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the “slow, silent invasion of alien pests” creeping across United States borders.[^48] By 1999, the concepts and terminology had gained such traction that an executive order mandated the formation of the National Invasive Species Council, an inter-agency government coalition with the stated purpose of “safeguard[ing] the interests of the United States by preventing, eradicating, and controlling invasive species […].”[^49]
 <param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/16604010"
-       label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
-       fit="contain">
-<param ve-entity eid="Q42985020"
-<param ve-entity eid="Q1066200" aliases="Charles Elton's"
+url="https://www.biodiversitylibrary.org/pageImage/16604010"
+label="Opening Remarks of the 1994 Congressional Hearing, _Harmful Non-Indigenous Species in the United States_"
+fit="contain">
+<param ve-entity eid="Q42985020">
+<param ve-entity eid="Q1066200" aliases="Charles Elton's">
 
 ###                                                                                                           
 The vilification of the paperbark arose around the same moment toward the end of the twentieth century. Just as “invasives” were entering mainstream consciousness as ecological villains, the USDA placed *Melaleuca quinquenervia* on the Federal Noxious Weed List, restricting its sale, circulation, and importation throughout the United States.[^50] In the later part of the 1990s, this zeal for prevention morphed into one for eradication, and significant sums of money, from both federal agencies and NGOs, were put towards removing preexisting stands in Florida. Legislation supported by its invasive status began to imply that nearly anything, including development, was preferable to the presence of the tree.[^51] In the space of a century, _M. quinquenervia_ had fallen from a plant of immense possibility to an invasive, “garbage” weed. Nothing in the plant had changed; it continues to live and reproduce as it did at the moment of its first Western description. What did shift, however, was an anthropocentric sense of control.  The tree escaped the settings and roles that Floridian planters had hoped to consign it to, thus becoming a vilified reminder that human interests are only one factor and one force shaping our dynamic, global environment.      

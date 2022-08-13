@@ -320,54 +320,54 @@ initial-zoom="1"
 height="750">
 
 ### References
-[^1]: Robert Peckham, “Hygienic Nature: Afforestation and the greening of colonial Hong Kong,” *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. 
+[^1]: Robert Peckham, “Hygienic Nature: Afforestation and the greening of colonial Hong Kong,” *Modern Asian Studies* vol. 83, no. 2, 2015, p. 1194. https://www.jstor.org/stable/24495425
 [^2]: *Ibid*. p. 1179.
 [^3]: *Ibid*. pp. 1187-1188.
 [^4]: *Ibid*. pp. 1181-1182.
-[^5]: Richard T. Corlett, “Environmental forestry in Hong Kong: 1871-1997,” *Forest Ecology and Management*, no. 116, 1999, p. 96.        
-[^6]:  “Everglades of the Peninsula of Florida,” *United States, Congress, Senate, Committee on Public Lands*, August 1848, 30th Congress, 1st Session.
-[^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, “Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.,” *Wetlands Ecology and Management*, no. 5, 1998, p. 167.
-[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea* vol. 3, no. 71, 2006, pp. 210-225. <doi:10.2179/05-27.1>
-[^9]: Bob French, “Melaleuca Misery” in *South Florida Sun-Sentinel*, May 20 1994 <https://www.sun-sentinel.com/news/fl-xpm-1994-05-20-9405190232-story.html> [Accessed Aug. 5 2022].
-[^10]: Bob French, “Shrine Shades Tree from Foes” Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991 <https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html> [Accessed Aug. 5 2022].
-[^11]: French, 1994. 
-[^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. <doi:10.2307/1217885>
-[^13]: Georg Rumphius, *Herbarium amboinense*, vol. 2, (1741).
-[^14]: Peter Carey, *Parrot and Oliver in America* (Hamish Hamilton: Victoria, 2009)
-[^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4 (Madrid, 1797), p. 19.
+[^5]: Richard T. Corlett, “Environmental forestry in Hong Kong: 1871-1997,” *Forest Ecology and Management*, no. 116, 1999, p. 96. https://www.academia.edu/18830201/Environmental_forestry_in_Hong_Kong_1871_1997
+[^6]: United States, Congress, Senate, Committee on Public Lands, *Everglades of the Peninsula of Florida*, August 1848, 30th Congress, 1st Session.
+[^7]: C.E. Turner, T.D. Center, D.W. Burrows, and G.R. Buckingham, “Ecology and management of _Melaleuca quinquenervia_, and invader of wetlands in Florida, U.S.A.,” *Wetlands Ecology and Management*, no. 5, 1998, p. 167. https://link.springer.com/article/10.1023/A:1008205122757
+[^8]: Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea* vol. 3, no. 71, 2006, pp. 210-225. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full
+[^9]: Bob French, “Melaleuca Misery” in *South Florida Sun-Sentinel*, May 20 1994. <https://www.sun-sentinel.com/news/fl-xpm-1994-05-20-9405190232-story.html> [Accessed Aug. 5 2022]
+[^10]: Bob French, “Shrine Shades Tree from Foes” Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. Accessed Aug. 5 2022.
+[^11]: French, 1994. [see [^9]]
+[^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
+[^13]: Georg Rumphius, *Herbarium amboinense*, vol. 2, (1741), pp. 72-73.
+[^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, p. 
+[^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4. Madrid, 1797, p. 19.
 [^16]: Stanley Thatcher Blake, “A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)”, *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.
-[^17]: Jan McDonald, "Captain Cook's Florilegium" *La Trobe Journal*, vol. 100, September 2017.
-[^18]: Mental States Volume 2: Language and Cognitive Structure, ed. by Andrea C. Schalley and Drew Khelntzos (2007), pp. 244-6; Nominal Classification in Aboriginal Australia, ed. Mark Harvey and Nicholas Reid (1997), p. 132; See also Caroll 1976, p. 95.
-[^19]: J. H. Maiden, *The Forest Flora of New South Wales*, vol. 1 (Sydney: Government Printer, 1904). 
+[^17]: https://collections.tepapa.govt.nz/topic/576
+[^18]: *Mental States Volume 2: Language and Cognitive Structure*, ed. by Andrea C. Schalley and Drew Khelntzos (2007), pp. 244-6; *Nominal Classification in Aboriginal Australia*, ed. Mark Harvey and Nicholas Reid (1997), p. 132; See also Caroll 1976, p. 95.
+[^19]: J. H. Maiden, *The Forest Flora of New South Wales* vol. 1. Sydney: Government Printer, 1904. 
 [^20]: Florida State. Legislature, Chapter 90-313 Committee Substitute for House Bill No. 2273, July 3, 1990, https://sb.flleg.gov/nxt/gateway.dll/Laws/lf1990/chapters%2090-301%20-%2090-325/ch_90-313.htm?f=templates$fn=document-frameset.htm$3.0
-[^21]: John J. Stablein, Gerald A. Bucholtz, Richard F. Lockey, “Melaleuca Tree and Respiratory Disease”, *Annals of Allergy, Asthma, & Immunology*, vol. 89, no. 5, 2002, pp. 523-530.
+[^21]: John J. Stablein, Gerald A. Bucholtz, Richard F. Lockey, “Melaleuca Tree and Respiratory Disease”, *Annals of Allergy, Asthma, & Immunology*, vol. 89, no. 5, 2002, pp. 523-530. https://www.annallergy.org/article/S1081-1206(10)62092-3/fulltext
 [^22]: Richard Kerkhove & Cathy Keys, “Australian Settler Bush Huts and Indigenous Bark-Strippers: Origins and Influences”, *Queensland Review* vol. 27, no. 1, 2002, p. 5.
-[^23]: Constance C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland* (Sydney: Angus and Robertson, C, 1904), p. 100.
-[^24]: Mudrooroo Nyoongah, *Aboriginal Mythology* (London: M, Thorsons, 1994), pp. 14-15.
-[^25]: Scott Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country”, *The Journal of Royal Geographical Society of London*, vol. 1, 1831, pp. 21-51.
-[^26]: A. B. & J. W Cribbs, *Useful Wild Plants in Australia* (William Collins: Sydney, 1981)
-[^27]: Sarah Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remote Northern-Australian Aboriginal Town*, *Charles Darwin University*, 2015, unpublished Ph.D. thesis, p. 254; Sarah Ireland, Suxanne Belton, Ann McGrath, Sherry Saggers, & Concepta Wulili Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, vol. 28, 2015, p. 295.
-[^28]: Oodgeroo Noonuccal, “Poems”, *Kunapipi*, vol.10, no. 1, 1988. https://ro.uow.edu.au/kunapipi/vol10/iss1/5 
-[^29]: Will Steffen, Andrew A. Burbidge, Lesley Hughes, Roger Kitching, David Lindenmayer, Warren Musgrave, Mark Stafford Smith, & Patricia A. Werner, *Australia’s Biodiversity and Climate Change* (CSIRO Publishing Collingwood: VIC, Australia, 2010)
-[^30]: Michael-Shawn Fletcher, Tegan Hall, Andreas Nicholas Alexandra, “The loss of an indigenous constructed landscape following British invasion of Australia: An insight into the deep human imprint on the Australian landscape”, *Ambio*, vol. 50, 2021, pp. 138–149. <doi-org.libproxy.lib.unc.edu/10.1007/s13280-020-01339-3>
+[^23]: Constance C. Petrie, *Tom Petrie’s Reminiscences of Early Queensland*. Sydney: Angus and Robertson, C, 1904, p. 100.
+[^24]: Mudrooroo Nyoongah, *Aboriginal Mythology*. London: M, Thorsons, 1994, pp. 14-15.
+[^25]: Scott Nind, “Description of the Natives of King George’s Sound (Swan River Colony) and Adjoining Country”, *The Journal of Royal Geographical Society of London*, vol. 1, 1831, pp. 21-51. https://www.jstor.org/stable/1797657
+[^26]: A. B. & J. W Cribbs, *Useful Wild Plants in Australia*. William Collins: Sydney, 1981.
+[^27]: Sarah Ireland, *Paperbark and Pinard: A Cultural and Historical Exploration of Female Reproduction in One Remote Northern-Australian Aboriginal Town*, *Charles Darwin University*, 2015, unpublished Ph.D. thesis, p. 254; Sarah Ireland, Suxanne Belton, Ann McGrath, Sherry Saggers, & Concepta Wulili Narjic, “Paperbark and Pinard: A Historical Account of Maternity Care in One Remote Australian Aboriginal Town” in *Women and Birth*, vol. 28, 2015, p. 295. https://www.sciencedirect.com/science/article/abs/pii/S1871519215000578
+[^28]: Oodgeroo Noonuccal, “Poems”, *Kunapipi*, vol. 10, no. 1, 1988. https://ro.uow.edu.au/kunapipi/vol10/iss1/5 
+[^29]: Will Steffen, Andrew A. Burbidge, Lesley Hughes, Roger Kitching, David Lindenmayer, Warren Musgrave, Mark Stafford Smith, & Patricia A. Werner, *Australia’s Biodiversity and Climate Change*. CSIRO Publishing Collingwood, 2010.
+[^30]: Michael-Shawn Fletcher, Tegan Hall, Andreas Nicholas Alexandra, “The loss of an indigenous constructed landscape following British invasion of Australia: An insight into the deep human imprint on the Australian landscape”, *Ambio*, vol. 50, 2021, pp. 138–149. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7708580/
 [^31]: Steffen et al., 2010. [see [^29]]
-[^32]: Matthew D. Hurteau and Christine Wiedinmyer, "Prescribed fire as a means of reducing forest carbon emissions in the Western United States", *Environmental Science and Technology*, vol. 44, 2010, pp. 1926-1932.
-[^33]: “Ngarrindjeri Engagement”, *Department for Environment and Water, Government of South Australia*, 2022, <https://www.environment.sa.gov.au/topics/river-murray/improving-river-health/coorong-lower-lakes-murray-mouth/recovery-project/ngarrindjeri-engagement> [Accessed Aug. 6 2022].
-[^34]: Alicia McCumstie, “International Bush Renewal Effort” in *Central Coast Express Advocate*, December 10 2010 [Accessed Aug. 6 2022].
-[^35]: George F. Meskimen, “A Silvical Study of the Melaleuca Tree in South Florida,” *University of Florida*, Unpublished PhD Thesis, 1962, pp. 12-13; Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea* vol. 3, no. 71, 2006, pp. 221-222.  
-[^36]: Katherine Carter-Finn, Alan W. Hodges, Donna J. Lee, and Michael T. Olexa, “The History and Economics of Melaleuca Management in South Florida,” University of Florida; IFAS Extension, November, 2006, p. 2.
+[^32]: Matthew D. Hurteau and Christine Wiedinmyer, "Prescribed fire as a means of reducing forest carbon emissions in the Western United States", *Environmental Science and Technology*, vol. 44, 2010, pp. 1926-1932. https://pubs.acs.org/doi/10.1021/es902455e
+[^33]: Department for Environment and Water, Government of South Australia, “Ngarrindjeri Engagement”, 2022. https://www.environment.sa.gov.au/topics/river-murray/improving-river-health/coorong-lower-lakes-murray-mouth/recovery-project/ngarrindjeri-engagement. Accessed Aug. 6 2022.
+[^34]: Alicia McCumstie, “International Bush Renewal Effort” in *Central Coast Express Advocate*, December 10 2010. Accessed Aug. 6 2022.
+[^35]: George F. Meskimen, “A Silvical Study of the Melaleuca Tree in South Florida,” *University of Florida*, Unpublished PhD Thesis, 1962, pp. 12-13; Allen F. Dray, Bradley C. Bennett, and Ted D. Center, “Invasion History of *Melaleuca quinquenervia* (Cav.) S. T. Blake in Florida,” *Castanea* vol. 3, no. 71, 2006, pp. 221-222. https://bioone.org/journals/castanea/volume-71/issue-3/05-27.1/Invasion-History-of-Melaleuca-quinquenervia-Cav-ST-Blake-in-Florida/10.2179/05-27.1.full
+[^36]: Katherine Carter-Finn, Alan W. Hodges, Donna J. Lee, and Michael T. Olexa, “The History and Economics of Melaleuca Management in South Florida,” *University of Florida*; IFAS Extension, November, 2006, p. 2.
 [^37]: Turner et al, p. 167. [see [^7]]
-[^38]: John Tibby, Cameron Barr, Francesca A. McInerney, Andrew C. G. Henderson, Melanie J. Leng, Margaret Greenway, Jonathan C. Marshall, Glenn B. McGregor, Jonathan J. Tyler, & Vivienne McNeil, “Carbon isotope discrimination in leaves of the broad-leaved paperbark tree, *Melaleuca quinquenervia*, as a tool for quantifying past tropical and subtropical rainfall” *Global Change Biology*, vol. 22, no. 10, 2016, pp.3474-3486. <doi: 10.1111/gcb.13277>
+[^38]: John Tibby, Cameron Barr, Francesca A. McInerney, Andrew C. G. Henderson, Melanie J. Leng, Margaret Greenway, Jonathan C. Marshall, Glenn B. McGregor, Jonathan J. Tyler, & Vivienne McNeil, “Carbon isotope discrimination in leaves of the broad-leaved paperbark tree, *Melaleuca quinquenervia*, as a tool for quantifying past tropical and subtropical rainfall” *Global Change Biology*, vol. 22, no. 10, 2016, pp.3474-3486. https://eprints.ncl.ac.uk/219929
 [^39]: Turner et al., p. 171. [see [^7]]
 [^40]: *Ibid.* pp. 167-8.  
 [^41]: *Ibid.* pp. 168.
 [^42]: *Ibid.* pp. 171-72.
-[^43]: Mireya Navarro, “U.S. Dispatches an Army of Tree-Hungry Beetles to Fight Everglades Menace,” *The New York Times*, May 4, 1997. Ted D. Center, Matthew F. Purcell, Paul D. Pratt, Min B. Ryamajhi, et al., “Biological control of _Melaleuca quinquenervia_: an Everglades invader,” _BioControl, 2011, p. 7.
+[^43]: Mireya Navarro, “U.S. Dispatches an Army of Tree-Hungry Beetles to Fight Everglades Menace,” *The New York Times*, May 4, 1997. https://www.nytimes.com/1997/05/04/us/us-dispatches-an-army-of-tree-hungry-beetles-to-fight-everglades-menace.html. Ted D. Center, Matthew F. Purcell, Paul D. Pratt, Min B. Ryamajhi, et al., “Biological control of _Melaleuca quinquenervia_: an Everglades invader,” *BioControl*, 2011, p. 7. https://www.ars.usda.gov/ARSUserFiles/11988/prattdocs/74.pdf
 [^44]: *Ibid.*, pp. 6-7. 
-[^45]: Tim Low, Feral Futures 
-[^46]: Edward Lowry, Emily J. Rollinson, Adam J. Laybourn, et al., “Biological invasions: a field synopsis, systematic review, and database of the literature,” *Ecology and Evolution*, vol. 3, no. 1, 2013, p. 184.
+[^45]: Tim Low, *Feral Future: The Untold Story of Australia's Exotic Invaders*. Chicago: University of Chicago Press, 2002, pp. 168-170. 
+[^46]: Edward Lowry, Emily J. Rollinson, Adam J. Laybourn, et al., “Biological invasions: a field synopsis, systematic review, and database of the literature,” *Ecology and Evolution*, vol. 3, no. 1, 2013, p. 184. https://www.academia.edu/26471551/Biological_invasions_a_field_synopsis_systematic_review_and_database_of_the_literature
 [^47]: *Ibid.*, p. 186.
-[^48]: “Harmful non-indigenous species in the U.S.: hearings before the Committee on Governmental Affairs,” *United States, Congress, Senate, Committee on Governmental Affairs*, March 1994, 103rd Congress, 2nd Session. 
-[^49]: “About the Council,” *National Invasive Species Council, U.S. Department of the Interior*, 2022. https://www.doi.gov/invasivespecies/about-nisc [Accessed August 9 2022]. 
+[^48]: United States, Congress, Senate, Committee on Governmental Affairs, *Harmful non-indigenous species in the U.S.: hearings before the Committee on Governmental Affairs*. March 1994, 103rd Congress, 2nd Session. 
+[^49]: United States, Department of the Interior, *About the Council, National Invasive Species Council*, 2022. https://www.doi.gov/invasivespecies/about-nisc. Accessed August 9 2022. 
 [^50]: Turner et al., p. 171. [see [^7]]
 [^51]: *Ibid.*, p. 170. 

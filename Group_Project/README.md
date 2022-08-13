@@ -332,7 +332,7 @@ height="750">
 [^10]: Bob French, “Shrine Shades Tree from Foes” Wrath Despite Ordinance, Grandaddy Melaleuca is Safe from Destruction' in *South Florida Sun-Sentinel*, April 15 1991. https://www.sun-sentinel.com/news/fl-xpm-1991-04-15-9101190220-story.html. Accessed Aug. 5 2022.
 [^11]: French, 1994. [see [^9]]
 [^12]: H. De Wit, C. D,  ‘In Memory of G. E. Rumphius (1702-1952)’ *Taxon*, vol. 1, no. 7, 1952, p, 101. https://onlinelibrary.wiley.com/doi/abs/10.2307/1217885
-[^13]: Georg Rumphius, *Herbarium amboinense*, vol. 2, (1741), pp. 72-73.
+[^13]: Georg Rumphius, *Herbarium Amboinense* vol. 2. 1741, pp. 72-73.
 [^14]: Peter Carey, *Parrot and Oliver in America*. New York: Knopf, 2010, p. 
 [^15]: Antonio Jose Cavanilles, *Icones et Descriptiones Plantarum* vol. 4. Madrid, 1797, p. 19.
 [^16]: Stanley Thatcher Blake, “A revision of *Melaleuca leucadendron* and its allies (Myrtaceae)”, *Contributions from the Queensland Herbarium*, vol. 1, 1968, pp. 1-114.

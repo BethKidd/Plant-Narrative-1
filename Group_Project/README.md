@@ -56,7 +56,7 @@ license="Unknown"
 fit="contain">
 
 ### Colonial Discovery 
-The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". Its leaves are dark, gray-green and oblong with five veins, as specified in the epithet "quinquenervia". As a fire adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil. 
+The *Melaleuca quinquenervia* belongs to a genus of the Myrtle family, closely related to the Eucalyptus, and endemic to mainland Australia, New Caledonia, and Indonesia, its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the truck in smooth, flat sheets. The *M. quinquenervia*, one of a group of up to 100 species described as "broadleaf", can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically of *Melaleucas*, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree". Its leaves are dark, gray-green, and oblong with five veins, as specified in the epithet "quinquenervia". As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and an ideal environment for seed germination and seedling growth with a more open canopy and carbon-rich soil. 
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
@@ -239,8 +239,8 @@ This paragraph is dedicated to the over simplified network visual example. We pl
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures.[^29] Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/0/07/Satellite_image_of_bushfire_smoke_over_Eastern_Australia_%28December_2019%29.jpg"
-label="*Satellite image of bushfire smoke over Easter Australia*"
-description="Satellite image of some"
+label="*Satellite image of bushfire smoke over Easter Australia*, 2019"
+description="Satellite image of fires"
 license="CC BY-SA 2.0"
 fit="contain">
        

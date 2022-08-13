@@ -182,9 +182,9 @@ Ethnographic accounts describe Aboriginal Australians using *Melaleuca* bark for
 "Euro-Australians">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
-label="Melaleuca Mulch" 
-description="raft photo"
-license="CC BY 4.0">
+label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
+description="canoe photo"
+license="public domain">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
 label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
@@ -202,7 +202,7 @@ description="paperbark cuisine"
 license="CC BY-SA 3.0">
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
-label="_Paperbark Basket_, England Banggala, 1994" 
+label="Paperbark Basket, England Banggala, 1994" 
 description="basket"
 license="granted by holder">
 
@@ -226,7 +226,7 @@ description="protest bark"
 license="granted by holder">
 
 ###
-Aboriginal Australians value paperbark so highly that some have incorporated the tree into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the name she adopted in 1988 translates to “paperbark tree of the Noonuccal,” crediting the group name of her ancestors. Noonuccal devoted her life to articulating the feelings of Aboriginal people and combating social inequality. Her writing explores themes of cultural identity, spirituality, place and time, interwoven withrich descriptions of Australia’s natural environment. In the poem “Oodgeroo,” which dates to the time of her name change, Noonuccal tells the story of a woman severed from her culture and people who, with the help of Biami the Good Spirit and the paperbark trees, spent many years recording (on paperbark) lost tribal stories.[^28] The poem concludes with the woman’s adoption into a tribe of paperbark trees, with her old foe Time losing his power over her and the woman finding peace. In this poem, the utility of *Melaleuca* and Noonuccal’s feeling of kinship with the trees is evident. Noonuccal advocated not only for Aboriginal Australians but for the environment. Her work draws attention to ecological symbiosis and the importance of the natural environment to Indigenous peoples and traditions.
+Aboriginal Australians value paperbark so highly that some have incorporated the tree into their names. The most famous of those is Oodgeroo Noonuccal (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the name she adopted in 1988 translates to “paperbark tree of the Noonuccal,” crediting the group name of her ancestors. Noonuccal devoted her life to articulating the feelings of Aboriginal people and combating social inequality. Her writing explores themes of cultural identity, spirituality, place and time, interwoven with rich descriptions of Australia’s natural environment. In the poem “Oodgeroo,” which dates to the time of her name change, Noonuccal tells the story of a woman severed from her culture and people who, with the help of Biami the Good Spirit and the paperbark trees, spent many years recording (on paperbark) lost tribal stories.[^28] The poem concludes with the woman’s adoption into a tribe of paperbark trees, with her old foe Time losing his power over her and the woman finding peace. In this poem, the utility of *Melaleuca* and Noonuccal’s feeling of kinship with the trees is evident. Noonuccal advocated not only for Aboriginal Australians but for the environment. Her work draws attention to ecological symbiosis and the importance of the natural environment to Indigenous peoples and traditions.
 <param ve-entity eid="Q457278">
 <param ve-video id="ZPQr30eEQdY" 
 title="Oodgeroo Noonuccal Reading Her Poems">
@@ -239,7 +239,7 @@ This paragraph is dedicated to the over simplified network visual example. We pl
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures.[^29] Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/0/07/Satellite_image_of_bushfire_smoke_over_Eastern_Australia_%28December_2019%29.jpg"
-label="*Satellite image of bushfire smoke over Easter Australia*, 2019"
+label="Satellite image of bushfire smoke over Easter Australia, 2019"
 description="Satellite image of fires"
 license="CC BY-SA 2.0"
 fit="contain">
@@ -259,7 +259,7 @@ The global dispersion of the paperbark tree was accompanied by a patchy and inco
 <param ve-map
        center="25.78662638413672, -80.68252090059919"
        zoom="9"
-       Title="Dense areas of _M. quinquenervia_ in South Florida"
+       Title="Dense areas of _M. quinquenervia_ in south Florida"
        basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson url="EvergladesNew.json">
 <param ve-map-marker
@@ -284,10 +284,10 @@ license="CC BY 3.0”>
 <param ve-entity eid="Q220212" aliases="monocultural”>
 
 ###
-Militaristic analogies reenter the narrative of the Paperbark tree in discussions of control. Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever encroaching, ever anthropomorphized enemy, the tree. Tactics of control are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in the New York Times speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.”[^44] 
+Militaristic analogies reenter the narrative of the Paperbark tree in discussions of control. Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, ever anthropomorphized enemy, the tree. Tactics of control are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in *The New York Times* speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.”[^44] 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Melaleuca_leaf_weevil.jpg"
-label="Melaleuca Leaf Weevil, _Oxyops vitiosa_"
+label="_Melaleuca_ Leaf Weevil, _Oxyops vitiosa_"
 description="Weevil increasingly used for biological control of the paperbark in South Florida"
 license="Public Domain"
 fit="contain”>

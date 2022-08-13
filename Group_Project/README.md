@@ -276,14 +276,14 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.
 ### 
 It is difficult to pinpoint exactly when the tree’s reputation began to sour, but it is clear that as the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that had made the tree initially attractive became those that made it most despised. _M. quinquenervia_ grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions.[^39] South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of anthropogenic burning by Indigenous groups. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction.[^40] The aforementioned seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, a majority of which was comprised of monocultural stands.[^41]
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/4/47/Starr-031108-0008-Melaleuca_quinquenervia-habit-Alligator_Alley-Florida_%2824580743671%29.jpg"
-       label="_M. quinquenervia_ stand lining I-75 in the Everglades"
-       description="a dense monoculture of paperbark lines I-75, the highway that passes through the Florida Everglades"
-       license="CC BY 3.0”>
+url="https://upload.wikimedia.org/wikipedia/commons/4/47/Starr-031108-0008-Melaleuca_quinquenervia-habit-Alligator_Alley-Florida_%2824580743671%29.jpg"
+label="_M. quinquenervia_ stand lining I-75 in the Everglades"
+description="a dense monoculture of paperbark lines I-75, the highway that passes through the Florida Everglades"
+license="CC BY 3.0”>
 <param ve-entity eid="Q123452" aliases="endemic zone">
 <param ve-entity eid="Q220212" aliases="monocultural”>
 
-### 
+###
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of control. Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever encroaching, ever anthropomorphized enemy, the tree. Tactics of control are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42] A 1997 article in the New York Times speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark. The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.”[^44] 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/1/1d/Melaleuca_leaf_weevil.jpg"

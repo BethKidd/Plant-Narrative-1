@@ -263,7 +263,7 @@ The global dispersion of the paperbark tree was accompanied by a patchy and inco
        center="25.78662638413672, -80.68252090059919"
        zoom="9"
        Title="Dense areas of _M. quinquenervia_ in south Florida"
-       basemap="Esri_WorldPhysical">
+       basemap="EsriWorldPhysical">
 <param ve-map-layer geojson url="EvergladesNew.json">
 <param ve-map-marker
        url="https://upload.wikimedia.org/wikipedia/commons/e/ec/Starr_031108-0007_Melaleuca_quinquenervia.jpg"

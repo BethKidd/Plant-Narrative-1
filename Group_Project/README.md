@@ -182,11 +182,6 @@ url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftd
 label="_Walba_, David Payne" 
 description="raft design"
 license="granted from holder">
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
-label="Florimulch Mulch Made with Melaleuca" 
-description="photo of Florimulch"
-license="CC BY-NC 2.0">
 
 
 ###

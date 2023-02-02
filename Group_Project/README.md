@@ -285,6 +285,7 @@ license="CC BY 3.0”>
 <param ve-entity eid="Q123452" aliases="endemic zone">
 <param ve-entity eid="Q220212" aliases="monocultural”>
 
+
 ###
 Militaristic analogies reenter the narrative of the Paperbark tree in discussions of controlling its spread.  Attempts to push back the edges of *M. quinquenervia* groves are described in the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, anthropomorphized enemy, the tree.  Battle tactics are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, biological control.[^42]  A 1997 article in *The New York Times* speaks of a valiant “Army of Tree-Hungry Beetles” ready for employment in the battle against the insidious paperbark.  The text celebrates *Oxyops vitiosa*, a snout beetle also native to Eastern Australia, which was released in the late 1990s to colonize stands of the species in South Florida, in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion of the tree at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida*, *Fergusonina turneri*, and others have been studied and eventually released for their possible usefulness in this ongoing “war.”[^44]
 <param ve-entity eid="Q116890" aliases="biological control”>

@@ -173,6 +173,16 @@ label="Bush Shower of Paperbark strips and timber, 1914"
 description="photo of bush shower"
 license="none">
 <param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
+label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
+description="canoe photo"
+license="public domain">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
+label="_Walba_, David Payne" 
+description="raft design"
+license="granted from holder">
+<param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/mulch.jpg?raw=true"
 label="Florimulch Mulch Made with Melaleuca" 
 description="photo of Florimulch"
@@ -181,23 +191,7 @@ license="CC BY-NC 2.0">
 
 ###
 Ethnographic accounts describe countless further uses of Aboriginal Australians using *Melaleuca* bark. It served for bedding, lining earth ovens, wrapping food for cooking and storage, as fuelwood or kindling, and making liquid holding vessels and baskets.[^25] More recently, Euro-Australians have also championed the culinary applications of the paperbark tree in combination with other Indigenous ingredients. Paperbark sheets intended for cooking are now commercially available. Chefs note that food cooked while wrapped in paperbark takes on a smoky flavor and recommend this method for roasting fish, chicken, or vegetables. The plant’s culinary uses extend beyond the *Melaleuca* bark. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener, which has been used for candies.[^26] *M. quinquenervia* is a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida.
-<param ve-entity eid="Q13580316" aliases=
-"Euro-Australians">
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/raft.jpg?raw=true"
-label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
-description="canoe photo"
-license="public domain">
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
-label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
-description="bark painting"
-license="granted by holder">
-<param ve-image 
-url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/Raftdesign.png?raw=true"
-label="_Walba_, David Payne" 
-description="raft design"
-license="granted from holder">
+<param ve-entity eid="Q13580316" aliases="Euro-Australians">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Paperbark_%28bark%29.JPG"
 label="Paperbark for food wrapping" 
@@ -207,6 +201,11 @@ license="CC BY-SA 3.0">
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/basket.png?raw=true"
 label="Paperbark Basket, England Banggala, 1994" 
 description="basket"
+license="granted by holder">
+<param ve-image 
+url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/barkpainting.png?raw=true"
+label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
+description="bark painting"
 license="granted by holder">
 
 

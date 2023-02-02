@@ -274,6 +274,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/3/35/Florida_Lac_Okeechobee.
        coords="26.960959, -80.795298"
        size="350, 150"
        circle="true">
+       
 ### 
 As the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that made the tree initially attractive became those for which it is now most despised. *M. quinquenervia* grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions.[^39] South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of indigenous anthropogenic burning. These traits make *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction.[^40] Its seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres of Floridian land, most of which was comprised of monocultural stands.[^41]
 <param ve-image

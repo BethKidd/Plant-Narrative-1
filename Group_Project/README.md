@@ -1,6 +1,5 @@
 <param ve-config
   title="The Broad-Leaf Paperbark: Friend or Foe?"
-  author="Phoebe Botticelli Pohl, Sierra Roark, Beth Kidd"
   banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/170411_559_Encinitas_-_San_Diego_Botanic_Gdn%2C_entrance_gdn%2C_Melaleuca_viridiflora_var_rubriflora_Paperbark_Tree_%2834456955761%29.jpg"
   layout="vertical">
   

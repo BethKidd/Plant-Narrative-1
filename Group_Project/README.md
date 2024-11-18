@@ -77,7 +77,7 @@ description="Paperbark fruit, photo by Forest & Kim Starr"
 license="CC BY-SA 3.0">
 
 ###
-The *Melaleuca* genus was identified in 1750 by Carl Linnaeus based on observations of specimens collected by the earlier German-born botanist Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Famed as “the Pliny of the Indies,” Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published decades posthumously against all odds—despite the author’s acquired blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
+In 1750, Swedish botanist Carl Linnaeus (1707-1778) identified the genus and named it *Melaleuca*- taken from the Greek "mélas" (black) and "leukós" (white) using observations of specimens collected by German-born botanist and (famed as the Pliny of the Indies) Georg Eberhard Rumphius (1627-1702) on the Indonesian Maluku Islands in the 1660s, during his employment with the Dutch East India Company. Rumphius’ botanical work, *Herbarium Amboinense* was published in 1741- posthumously and against all odds, given his blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^12]
 <param ve-entity eid="Q1043">
 <param ve-entity eid="Q61439">
 <param ve-entity eid="Q3827">
@@ -91,14 +91,14 @@ license="Public Domain"
 fit="contain">
 
 ###
-In the *Herbarium Amboinense*, a work based on which Linnaeus was able to classify dozens of new genera, Rumphius describes a type of Myrtle tree, known in the native Malay as “Caju-puti”, to which he adds the Latin Arbor alba (white tree) and Dutch “Witte Boom.” He also provides an additional synonym, “Brant-Boomen” (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, “the bottom of this trunk is always most black, as if it had been burnt,”[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
+In the *Herbarium Amboinense* (which Linnaeus also used to classify dozens of new genera), Rumphius describes a type of Myrtle tree, known in native Malay as “Caju-puti,” to which he adds the Latin Arbor alba (white tree) and Dutch “Witte Boom.” He also provides an additional synonym, “Brant-Boomen” (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, “the bottom of this trunk is always most black, as if it had been burnt,”[^13] which suggested to Rumphius that the heat of summer sun would scorch the dry and delicate bark without actually bursting into flame.
 <param ve-entity eid="Q34740">
 <param ve-iframe                                               
 src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
 fit="contain">
 
 ###
-Rumphius’ account of the paperbark’s appearance following a bushfire, its white, flakey bark patchy under a scorched outer layer, is inscribed in the tree’s name, *Melaleuca*, as given to it by Linnaeus, taken from the Greek “mélas” (black) and “leukós” (white). It remains a strong association with the tree for those familiar with it. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) Australian novelist Peter Carey depicts a character, disfigured by burns, whose “pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.”[^14]  
+Rumphius’ description of the paperbark’s appearance following a bushfire, its white, flaky bark patchy under a scorched outer layer, remains a strong association for many. In a recent [work](https://en.wikipedia.org/wiki/Parrot_and_Olivier_in_America) Australian novelist Peter Carey depicts a character, disfigured by burns, whose “pale blue eyes peered out from his own tattered skin as if they were prisoners inside the trunk of a blackened antipodean paperbark.”[^14]  
 <param ve-entity eid="Q313254">
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
@@ -107,7 +107,7 @@ description="Paperbark after a Bushfire"
 license="CC BY-SA 2.0">
 
 ###
-The *quinquenervia* species of *Melaleuca* received formal botanical description only in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus, who traveled to so-called “Botany Bay” on Captain Cook’s HMS Endeavour between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
+*M. quinquenervia* received formal botanical description in 1797 by the Spanish naturalist Antonio José Cavanilles.[^15] But it also numbered among the plants that had been earlier observed and collected by Joseph Banks and Daniel Solander, the latter a student of Linnaeus. They traveled to Botany Bay on Captain Cook’s *HMS Endeavour* between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^16] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^17]
 <param ve-entity eid="Q545430">
 <param ve-entity eid="Q153408">
 <param ve-entity eid="Q39789">
@@ -130,7 +130,7 @@ label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Description
 fit="contain">
 
 ### Indigenous Treasure 
-The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its current status in the United States, it continues to hold a pivotal role among Aboriginal cultures.
+The paperbark’s centrality to Indigenous communities predates its eighteenth-century “discovery” by thousands of years. The tree goes by countless names across the Australian continent: in Bibbulmun, spoken by the south-western Noongar peoples, it is known as the “Mudrooroo”; in the northern languages of Ngalakgan and Kunwinjku, it is the “Gu-got” and “Kun-kod", respectively.[^18] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its status in the United States, it holds a pivotal role among Aboriginal cultures.
 <param ve-entity eid="Q22918391">
 <param ve-entity eid="Q1996477">
 <param ve-entity eid="Q39796">

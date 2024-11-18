@@ -4,7 +4,7 @@
   layout="vertical">
   
 ###
-Cultural warning: Aboriginal and Torres Strait Islander people should be aware that this webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
+Cultural warning for Aboriginal and Torres Strait Islander people: This webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
 <param ve-image 
 url="https://github.com/BethKidd/Plant-Narrative-1/blob/main/Group_Project/6179237.jpg?raw=true"
 label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
